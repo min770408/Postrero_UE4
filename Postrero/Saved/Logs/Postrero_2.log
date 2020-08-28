@@ -702,3 +702,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.08.28-03.42.15:079][785]LogWindows: Warning: URL: C:\Users\parkm\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
 [2020.08.28-03.42.15:079][785]LogWindows: Warning: CreateProc failed: 지정된 파일을 찾을 수 없습니다. (0x00000002)
 [2020.08.28-03.42.15:079][785]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2020.08.28-03.42.51:501][349]LogWindows: Warning: CreateProc failed: 액세스가 거부되었습니다. (0x00000005)
+[2020.08.28-03.42.51:502][349]LogWindows: Warning: URL: C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/Win64/ version
+[2020.08.28-03.43.01:819][967]LogSlate: Took 0.000364 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2020.08.28-03.43.01:821][967]LogSlate: Took 0.002102 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicExtraBold.ttf' (4074K)
