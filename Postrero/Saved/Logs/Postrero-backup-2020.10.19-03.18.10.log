@@ -1,0 +1,1476 @@
+﻿Log file open, 10/19/20 11:56:29
+LogInit: Display: Running engine for game: Postrero
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.168714
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin Substance
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MegascansPlugin
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin MovieRenderPipeline
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin DatabaseSupport
+LogPluginManager: Mounting plugin SQLiteCore
+LogPluginManager: Mounting plugin SQLiteSupport
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.25-CL-13942748
+LogInit: Engine Version: 4.25.3-13942748+++UE4+Release-4.25
+LogInit: Compatible Engine Version: 4.25.0-13144385+++UE4+Release-4.25
+LogInit: Net CL: 13144385
+LogInit: OS: Windows 10 (Release 2004) (), CPU: Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz, GPU: NVIDIA GeForce RTX 2070 Super with Max-Q Design
+LogInit: Compiled (64-bit): Jul 25 2020 02:07:48
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.25
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 26
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 38
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 43
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 7
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 37
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/parkm/Documents/GitHub/Postrero_UE4/Postrero/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.10.19-02.56.29:973][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.10.19-02.56.29:973][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.10.19-02.56.29:973][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/parkm/Documents/GitHub/Postrero_UE4/Postrero/Saved/Config/Windows/Engine.ini]
+[2020.10.19-02.56.29:973][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.10.19-02.56.29:973][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/parkm/Documents/GitHub/Postrero_UE4/Postrero/Saved/Config/Windows/Engine.ini]
+[2020.10.19-02.56.29:973][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/parkm/Documents/GitHub/Postrero_UE4/Postrero/Saved/Config/Windows/Engine.ini]
+[2020.10.19-02.56.29:973][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.10.19-02.56.29:973][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.10.19-02.56.29:973][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.10.19-02.56.29:973][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.10.19-02.56.29:973][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.10.19-02.56.29:973][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.10.19-02.56.29:973][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.10.19-02.56.29:973][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.10.19-02.56.29:973][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.10.19-02.56.29:973][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.10.19-02.56.29:973][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.10.19-02.56.29:973][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.10.19-02.56.29:973][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.10.19-02.56.29:973][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.10.19-02.56.29:973][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/parkm/Documents/GitHub/Postrero_UE4/Postrero/Saved/Config/Windows/Engine.ini]
+[2020.10.19-02.56.29:973][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.10.19-02.56.29:973][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.10.19-02.56.29:973][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.10.19-02.56.29:973][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.10.19-02.56.29:973][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.10.19-02.56.29:973][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.10.19-02.56.29:973][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.10.19-02.56.29:973][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.10.19-02.56.29:973][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.10.19-02.56.29:973][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.10.19-02.56.29:973][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.10.19-02.56.29:973][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.10.19-02.56.29:973][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.10.19-02.56.29:973][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/parkm/Documents/GitHub/Postrero_UE4/Postrero/Saved/Config/Windows/Engine.ini]
+[2020.10.19-02.56.29:973][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/parkm/Documents/GitHub/Postrero_UE4/Postrero/Saved/Config/Windows/Engine.ini]
+[2020.10.19-02.56.29:975][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/parkm/Documents/GitHub/Postrero_UE4/Postrero/Saved/Config/Windows/Scalability.ini]
+[2020.10.19-02.56.29:975][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.10.19-02.56.29:975][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.10.19-02.56.29:975][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/parkm/Documents/GitHub/Postrero_UE4/Postrero/Saved/Config/Windows/Scalability.ini]
+[2020.10.19-02.56.29:975][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.10.19-02.56.29:975][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/parkm/Documents/GitHub/Postrero_UE4/Postrero/Saved/Config/Windows/Scalability.ini]
+[2020.10.19-02.56.29:975][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.10.19-02.56.29:975][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.10.19-02.56.29:975][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.10.19-02.56.29:975][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.10.19-02.56.29:975][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.10.19-02.56.29:975][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.10.19-02.56.29:975][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.10.19-02.56.29:975][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.10.19-02.56.29:975][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.10.19-02.56.29:975][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.10.19-02.56.29:975][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.10.19-02.56.29:975][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.10.19-02.56.29:975][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.10.19-02.56.29:975][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.10.19-02.56.29:976][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.10.19-02.56.29:976][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.10.19-02.56.29:976][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.10.19-02.56.29:976][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.10.19-02.56.29:976][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/parkm/Documents/GitHub/Postrero_UE4/Postrero/Saved/Config/Windows/Scalability.ini]
+[2020.10.19-02.56.29:976][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.10.19-02.56.29:976][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.10.19-02.56.29:976][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.10.19-02.56.29:976][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.10.19-02.56.29:976][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.10.19-02.56.29:976][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.10.19-02.56.29:976][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.10.19-02.56.29:976][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.10.19-02.56.29:976][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.10.19-02.56.29:976][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.10.19-02.56.29:976][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.10.19-02.56.29:976][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.10.19-02.56.29:976][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.10.19-02.56.29:976][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.10.19-02.56.29:976][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.10.19-02.56.29:976][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.10.19-02.56.29:976][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.10.19-02.56.29:976][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.10.19-02.56.29:976][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.10.19-02.56.29:976][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.10.19-02.56.29:976][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.10.19-02.56.29:976][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.10.19-02.56.29:976][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.10.19-02.56.29:976][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.10.19-02.56.29:976][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.10.19-02.56.29:976][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.10.19-02.56.29:976][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.10.19-02.56.29:976][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.10.19-02.56.29:976][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.10.19-02.56.29:976][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.10.19-02.56.29:976][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/parkm/Documents/GitHub/Postrero_UE4/Postrero/Saved/Config/Windows/Scalability.ini]
+[2020.10.19-02.56.29:976][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.10.19-02.56.29:976][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.10.19-02.56.29:976][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.10.19-02.56.29:976][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.10.19-02.56.29:976][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.10.19-02.56.29:976][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.10.19-02.56.29:976][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.10.19-02.56.29:976][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.10.19-02.56.29:976][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.10.19-02.56.29:976][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/parkm/Documents/GitHub/Postrero_UE4/Postrero/Saved/Config/Windows/Scalability.ini]
+[2020.10.19-02.56.29:976][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.10.19-02.56.29:976][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.10.19-02.56.29:976][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.10.19-02.56.29:976][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.10.19-02.56.29:976][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.10.19-02.56.29:976][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.10.19-02.56.29:976][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.10.19-02.56.29:976][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.10.19-02.56.29:976][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.10.19-02.56.29:976][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.10.19-02.56.29:976][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.10.19-02.56.29:976][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.10.19-02.56.29:976][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.10.19-02.56.29:976][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.10.19-02.56.29:976][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.10.19-02.56.29:976][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.10.19-02.56.29:976][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.10.19-02.56.29:976][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.10.19-02.56.29:976][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.10.19-02.56.29:976][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.10.19-02.56.29:976][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.10.19-02.56.29:976][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.10.19-02.56.29:976][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.10.19-02.56.29:976][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.10.19-02.56.29:976][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.10.19-02.56.29:976][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.10.19-02.56.29:976][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/parkm/Documents/GitHub/Postrero_UE4/Postrero/Saved/Config/Windows/Scalability.ini]
+[2020.10.19-02.56.29:976][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.10.19-02.56.29:976][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.10.19-02.56.29:976][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/parkm/Documents/GitHub/Postrero_UE4/Postrero/Saved/Config/Windows/Scalability.ini]
+[2020.10.19-02.56.29:976][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.10.19-02.56.29:976][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.10.19-02.56.29:976][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.10.19-02.56.29:976][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.10.19-02.56.29:976][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.10.19-02.56.29:976][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.10.19-02.56.29:976][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.10.19-02.56.29:976][  0]LogInit: Selected Device Profile: [Windows]
+[2020.10.19-02.56.29:976][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.10.19-02.56.29:977][  0]LogHAL: Display: Platform has ~ 32 GB [34190831616 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.10.19-02.56.29:977][  0]LogInit: Going up to parent DeviceProfile []
+[2020.10.19-02.56.29:977][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/parkm/Documents/GitHub/Postrero_UE4/Postrero/Saved/Config/Windows/Scalability.ini]
+[2020.10.19-02.56.29:977][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.10.19-02.56.29:977][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.10.19-02.56.29:977][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/parkm/Documents/GitHub/Postrero_UE4/Postrero/Saved/Config/Windows/Scalability.ini]
+[2020.10.19-02.56.29:977][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.10.19-02.56.29:977][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/parkm/Documents/GitHub/Postrero_UE4/Postrero/Saved/Config/Windows/Scalability.ini]
+[2020.10.19-02.56.29:977][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.10.19-02.56.29:977][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.10.19-02.56.29:977][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.10.19-02.56.29:977][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.10.19-02.56.29:977][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.10.19-02.56.29:977][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.10.19-02.56.29:977][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.10.19-02.56.29:977][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.10.19-02.56.29:977][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.10.19-02.56.29:977][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.10.19-02.56.29:977][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.10.19-02.56.29:977][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.10.19-02.56.29:977][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.10.19-02.56.29:977][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.10.19-02.56.29:977][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.10.19-02.56.29:977][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.10.19-02.56.29:977][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.10.19-02.56.29:977][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.10.19-02.56.29:977][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/parkm/Documents/GitHub/Postrero_UE4/Postrero/Saved/Config/Windows/Scalability.ini]
+[2020.10.19-02.56.29:977][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.10.19-02.56.29:977][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.10.19-02.56.29:977][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.10.19-02.56.29:977][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.10.19-02.56.29:977][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.10.19-02.56.29:977][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.10.19-02.56.29:977][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.10.19-02.56.29:977][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.10.19-02.56.29:977][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.10.19-02.56.29:977][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.10.19-02.56.29:977][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.10.19-02.56.29:977][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.10.19-02.56.29:977][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.10.19-02.56.29:977][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.10.19-02.56.29:977][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.10.19-02.56.29:977][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.10.19-02.56.29:977][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.10.19-02.56.29:977][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.10.19-02.56.29:977][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.10.19-02.56.29:977][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.10.19-02.56.29:977][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.10.19-02.56.29:977][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.10.19-02.56.29:977][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.10.19-02.56.29:977][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.10.19-02.56.29:977][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.10.19-02.56.29:977][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.10.19-02.56.29:977][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.10.19-02.56.29:977][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.10.19-02.56.29:977][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.10.19-02.56.29:977][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.10.19-02.56.29:977][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/parkm/Documents/GitHub/Postrero_UE4/Postrero/Saved/Config/Windows/Scalability.ini]
+[2020.10.19-02.56.29:977][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.10.19-02.56.29:977][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.10.19-02.56.29:977][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.10.19-02.56.29:977][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.10.19-02.56.29:977][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.10.19-02.56.29:977][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.10.19-02.56.29:977][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.10.19-02.56.29:977][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.10.19-02.56.29:977][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.10.19-02.56.29:977][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/parkm/Documents/GitHub/Postrero_UE4/Postrero/Saved/Config/Windows/Scalability.ini]
+[2020.10.19-02.56.29:977][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.10.19-02.56.29:977][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.10.19-02.56.29:977][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.10.19-02.56.29:977][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.10.19-02.56.29:977][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.10.19-02.56.29:977][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.10.19-02.56.29:977][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.10.19-02.56.29:977][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.10.19-02.56.29:977][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.10.19-02.56.29:977][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.10.19-02.56.29:977][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.10.19-02.56.29:977][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.10.19-02.56.29:977][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.10.19-02.56.29:977][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.10.19-02.56.29:977][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.10.19-02.56.29:977][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.10.19-02.56.29:977][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.10.19-02.56.29:978][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.10.19-02.56.29:978][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.10.19-02.56.29:978][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.10.19-02.56.29:978][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.10.19-02.56.29:978][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.10.19-02.56.29:978][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.10.19-02.56.29:978][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.10.19-02.56.29:978][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.10.19-02.56.29:978][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.10.19-02.56.29:978][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/parkm/Documents/GitHub/Postrero_UE4/Postrero/Saved/Config/Windows/Scalability.ini]
+[2020.10.19-02.56.29:978][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.10.19-02.56.29:978][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.10.19-02.56.29:978][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/parkm/Documents/GitHub/Postrero_UE4/Postrero/Saved/Config/Windows/Scalability.ini]
+[2020.10.19-02.56.29:978][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.10.19-02.56.29:978][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.10.19-02.56.29:978][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.10.19-02.56.29:978][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.10.19-02.56.29:978][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.10.19-02.56.29:978][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.10.19-02.56.29:978][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.10.19-02.56.29:978][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.10.19-02.56.29:978][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.10.19-02.56.29:978][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.10.19-02.56.29:978][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2020.10.19-02.56.29:978][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/parkm/Documents/GitHub/Postrero_UE4/Postrero/Saved/Config/Windows/Engine.ini]
+[2020.10.19-02.56.29:978][  0]LogInit: Computer: LAPTOP-4U8TKLR0
+[2020.10.19-02.56.29:978][  0]LogInit: User: parkm
+[2020.10.19-02.56.29:978][  0]LogInit: CPU Page size=4096, Cores=6
+[2020.10.19-02.56.29:978][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.10.19-02.56.29:978][  0]LogMemory: Memory total: Physical=31.8GB (32GB approx)
+[2020.10.19-02.56.29:978][  0]LogMemory: Platform Memory Stats for Windows
+[2020.10.19-02.56.29:978][  0]LogMemory: Process Physical Memory: 115.96 MB used, 115.97 MB peak
+[2020.10.19-02.56.29:978][  0]LogMemory: Process Virtual Memory: 97.66 MB used, 97.66 MB peak
+[2020.10.19-02.56.29:978][  0]LogMemory: Physical Memory: 9898.60 MB used,  22708.32 MB free, 32606.92 MB total
+[2020.10.19-02.56.29:978][  0]LogMemory: Virtual Memory: 5171.36 MB used,  134212560.00 MB free, 134217728.00 MB total
+[2020.10.19-02.56.29:982][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.10.19-02.56.30:027][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2020.10.19-02.56.30:027][  0]LogInit: Using OS detected language (ko-KR).
+[2020.10.19-02.56.30:027][  0]LogInit: Using OS detected locale (ko-KR).
+[2020.10.19-02.56.30:031][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2020.10.19-02.56.30:106][  0]LogInit: Setting process to per monitor DPI aware
+[2020.10.19-02.56.30:140][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.10.19-02.56.30:140][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.10.19-02.56.30:261][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.10.19-02.56.30:261][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.10.19-02.56.30:261][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.10.19-02.56.30:261][  0]LogD3D11RHI: D3D11 adapters:
+[2020.10.19-02.56.30:345][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2070 Super with Max-Q Design' (Feature Level 11_0)
+[2020.10.19-02.56.30:345][  0]LogD3D11RHI:       8011/0/16303 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.10.19-02.56.30:348][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.10.19-02.56.30:348][  0]LogD3D11RHI:       0/0/16303 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.10.19-02.56.30:348][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.10.19-02.56.30:353][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.10.19-02.56.30:353][  0]LogD3D11RHI:     GPU DeviceId: 0x1ed1 (for the marketing name, search the web for "GPU Device Id")
+[2020.10.19-02.56.30:353][  0]LogWindows: EnumDisplayDevices:
+[2020.10.19-02.56.30:353][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2070 Super with Max-Q Design' (P:1 D:1)
+[2020.10.19-02.56.30:354][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2070 Super with Max-Q Design' (P:0 D:0)
+[2020.10.19-02.56.30:354][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2070 Super with Max-Q Design' (P:0 D:0)
+[2020.10.19-02.56.30:354][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2070 Super with Max-Q Design' (P:0 D:0)
+[2020.10.19-02.56.30:354][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.10.19-02.56.30:354][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2070 Super with Max-Q Design
+[2020.10.19-02.56.30:354][  0]LogD3D11RHI:   Driver Version: 456.71 (internal:27.21.14.5671, unified:456.71)
+[2020.10.19-02.56.30:354][  0]LogD3D11RHI:      Driver Date: 9-30-2020
+[2020.10.19-02.56.30:354][  0]LogRHI: Texture pool is 5607 MB (70% of 8011 MB)
+[2020.10.19-02.56.30:404][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.10.19-02.56.30:406][  0]LogD3D11RHI: [Aftermath] Enabled and primed
+[2020.10.19-02.56.30:406][  0]LogD3D11RHI: Async texture creation enabled
+[2020.10.19-02.56.30:406][  0]LogD3D11RHI: Array index from any shader is supported
+[2020.10.19-02.56.30:425][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2020.10.19-02.56.30:656][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.10.19-02.56.30:676][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.10.19-02.56.30:676][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.10.19-02.56.30:676][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.10.19-02.56.30:676][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.10.19-02.56.30:676][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.10.19-02.56.30:676][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.10.19-02.56.30:676][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.10.19-02.56.30:676][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.10.19-02.56.30:676][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.10.19-02.56.30:676][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.10.19-02.56.30:698][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.10.19-02.56.30:698][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.10.19-02.56.30:707][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2020.10.19-02.56.30:715][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.10.19-02.56.30:724][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.10.19-02.56.30:731][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.10.19-02.56.30:739][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.10.19-02.56.30:748][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.10.19-02.56.30:757][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.10.19-02.56.30:782][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.10.19-02.56.30:782][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.10.19-02.56.30:798][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.10.19-02.56.30:798][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.10.19-02.56.30:807][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.10.19-02.56.30:815][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.10.19-02.56.30:823][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.10.19-02.56.30:833][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.10.19-02.56.30:833][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.10.19-02.56.30:840][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.10.19-02.56.30:903][  0]LogShaderCompilers: Guid format shader working directory is -23 characters bigger than the processId version (../../../../../../Users/parkm/Documents/GitHub/Postrero_UE4/Postrero/Intermediate/Shaders/WorkingDirectory/18568/).
+[2020.10.19-02.56.30:903][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/parkm/AppData/Local/Temp/UnrealShaderWorkingDir/3D1892B945A970733B3AEC95A2713A5E/'.
+[2020.10.19-02.56.30:903][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.10.19-02.56.30:903][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.10.19-02.56.30:903][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.10.19-02.56.31:544][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.10.19-02.56.31:585][  0]LogDerivedDataCache: Loaded boot cache 0.04s 76MB C:/Users/parkm/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.10.19-02.56.31:585][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/parkm/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc
+[2020.10.19-02.56.31:585][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/parkm/Documents/GitHub/Postrero_UE4/Postrero/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.10.19-02.56.31:585][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.10.19-02.56.31:585][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/parkm/Documents/GitHub/Postrero_UE4/Postrero/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.10.19-02.56.31:585][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.10.19-02.56.31:594][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.10.19-02.56.31:594][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.10.19-02.56.31:594][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.10.19-02.56.31:595][  0]LogDerivedDataCache: Using Local data cache path C:/Users/parkm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.10.19-02.56.31:595][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.10.19-02.56.31:595][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.10.19-02.56.31:637][  0]LogSlate: Using FreeType 2.10.0
+[2020.10.19-02.56.31:637][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.10.19-02.56.31:657][  0]LogAssetRegistry: FAssetRegistry took 0.0022 seconds to start up
+[2020.10.19-02.56.31:856][  0]LogInit: Selected Device Profile: [Windows]
+[2020.10.19-02.56.31:953][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.10.19-02.56.31:953][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.10.19-02.56.31:953][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.10.19-02.56.31:953][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.10.19-02.56.31:953][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.10.19-02.56.31:964][  0]LogNetVersion: Postrero 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 3587554464)
+[2020.10.19-02.56.32:304][  0]LogAISub: UAISubsystem::UAISubsystem AISubsystem (0000019BED314480), frame # 0
+[2020.10.19-02.56.32:304][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000019BED25AAC0), frame # 0
+[2020.10.19-02.56.32:305][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000019BED2D0A00), frame # 0
+[2020.10.19-02.56.32:352][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.041303 seconds
+[2020.10.19-02.56.32:355][  0]LogUObjectArray: 15917 objects as part of root set at end of initial load.
+[2020.10.19-02.56.32:355][  0]LogUObjectAllocator: 3965568 out of 0 bytes used by permanent object pool.
+[2020.10.19-02.56.32:355][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.10.19-02.56.32:573][  0]LogPython: Using Python 2.7.14
+[2020.10.19-02.56.33:319][  0]LogSubstanceCoreModule: Substance [CPU] Engine Loaded, Max Texture Size = 2048
+[2020.10.19-02.56.33:332][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.10.19-02.56.33:335][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.10.19-02.56.33:431][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2020.10.19-02.56.33:992][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.10.19-02.56.34:024][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.10.19-02.56.34:024][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.10.19-02.56.34:103][  0]LogOcInput: OculusInput pre-init called
+[2020.10.19-02.56.34:114][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.10.19-02.56.34:115][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.10.19-02.56.34:572][  0]LogEngine: Initializing Engine...
+[2020.10.19-02.56.34:573][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.10.19-02.56.34:573][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2020.10.19-02.56.34:574][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.10.19-02.56.34:668][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.10.19-02.56.34:677][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.10.19-02.56.34:677][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000019BF8F5E800), frame # 0
+[2020.10.19-02.56.34:677][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000019BF8FC9D00), frame # 0
+[2020.10.19-02.56.34:688][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.19-02.56.34:688][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.19-02.56.34:688][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.19-02.56.34:688][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.19-02.56.34:688][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.19-02.56.34:688][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.19-02.56.34:688][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.19-02.56.34:689][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.19-02.56.34:689][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.19-02.56.34:689][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.19-02.56.34:699][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.19-02.56.34:699][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.10.19-02.56.35:487][  0]LogAudioMixer: Display: Using Audio Device Speaker(Realtek(R) Audio)
+[2020.10.19-02.56.35:487][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.19-02.56.35:489][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.19-02.56.35:489][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.19-02.56.35:490][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.19-02.56.35:490][  0]LogInit: FAudioDevice initialized.
+[2020.10.19-02.56.35:491][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.10.19-02.56.35:526][  0]LogDerivedDataCache: Saved boot cache 0.04s 76MB C:/Users/parkm/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.10.19-02.56.35:527][  0]LogInit: Texture streaming: Enabled
+[2020.10.19-02.56.35:541][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.10.19-02.56.35:541][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.10.19-02.56.35:545][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.10.19-02.56.35:577][  0]LogInit: Transaction tracking system initialized
+[2020.10.19-02.56.35:597][  0]BlueprintLog: New page: 에디터 로드
+[2020.10.19-02.56.35:663][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2020.10.19-02.56.35:811][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.10.19-02.56.35:811][  0]LogCook: Display: Mobile HDR setting 1
+[2020.10.19-02.56.35:958][  0]LogFileCache: Scanning file cache for directory 'C:/Users/parkm/Documents/GitHub/Postrero_UE4/Postrero/Content/' took 0.01s
+[2020.10.19-02.56.36:183][  0]LogUnrealEdMisc: Loading editor; pre map load, took 7.770
+[2020.10.19-02.56.36:183][  0]Cmd: MAP LOAD FILE="../../../../../../Users/parkm/Documents/GitHub/Postrero_UE4/Postrero/Content/FirstPersonBP/Maps/Forest_01_Pos.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.10.19-02.56.36:183][  0]LogEditorServer: Warning: Can't find file '../../../../../../Users/parkm/Documents/GitHub/Postrero_UE4/Postrero/Content/FirstPersonBP/Maps/Forest_01_Pos.umap'
+[2020.10.19-02.56.36:183][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.10.19-02.56.36:183][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.144ms.
+[2020.10.19-02.56.36:183][  0]LogFileHelpers: Loading map 'Forest_01_Pos' took 0.000
+[2020.10.19-02.56.36:183][  0]LogAssetRegistry: Flushing asset discovery search because of synchronous request, this can take several seconds...
+[2020.10.19-02.56.36:197][  0]LogAssetRegistry: Asset discovery search completed in 0.0137 seconds
+[2020.10.19-02.56.36:205][  0]LogCollectionManager: Loaded 0 collections in 0.001521 seconds
+[2020.10.19-02.56.36:207][  0]LogFileCache: Scanning file cache for directory 'C:/Users/parkm/Documents/GitHub/Postrero_UE4/Postrero/Saved/Collections/' took 0.00s
+[2020.10.19-02.56.36:207][  0]LogFileCache: Scanning file cache for directory 'C:/Users/parkm/Documents/GitHub/Postrero_UE4/Postrero/Content/Developers/parkm/Collections/' took 0.00s
+[2020.10.19-02.56.36:207][  0]LogFileCache: Scanning file cache for directory 'C:/Users/parkm/Documents/GitHub/Postrero_UE4/Postrero/Content/Collections/' took 0.00s
+[2020.10.19-02.56.36:207][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2020.10.19-02.56.36:209][  0]LogUnrealEdMisc: Total Editor Startup Time, took 7.796
+[2020.10.19-02.56.36:289][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.19-02.56.36:297][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.19-02.56.36:303][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.19-02.56.36:310][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.19-02.56.36:324][  0]LogContentBrowser: Native class hierarchy populated in 0.0095 seconds. Added 3456 classes and 834 folders.
+[2020.10.19-02.56.36:329][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.10.19-02.56.36:393][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.10.19-02.56.36:395][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2020.10.19-02.56.36:429][  0]LogSlate: Took 0.000124 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.10.19-02.56.36:431][  0]LogSlate: Took 0.001635 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2020.10.19-02.56.36:434][  0]LogSlate: Took 0.001733 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicBold.ttf' (4188K)
+[2020.10.19-02.56.36:434][  0]LogSlate: Took 0.000137 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.10.19-02.56.36:437][  0]LogSlate: Took 0.000122 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.10.19-02.56.36:499][  0]LogRenderer: Reallocating scene render targets to support 1208x592 Format 10 NumSamples 1 (Frame:1).
+[2020.10.19-02.56.36:569][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.10.19-02.56.36:569][  0]LogLoad: (Engine Initialization) Total time: 8.16 seconds
+[2020.10.19-02.56.36:569][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.10.19-02.56.36:590][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.10.19-02.56.36:613][  1]LogSubstanceLiveLink: Warning: Unable to send data along socket, closing connection
+[2020.10.19-02.56.47:442][839]LogSlate: Took 0.000153 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.10.19-02.56.49:064][ 33]LogSlate: Took 0.000158 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.10.19-02.56.49:280][ 33]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Postrero_Forest_01.Postrero_Forest_01
+[2020.10.19-02.56.49:290][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2020.10.19-02.56.49:291][ 33]Cmd: MAP LOAD FILE="../../../../../../Users/parkm/Documents/GitHub/Postrero_UE4/Postrero/Content/Levels/Postrero_Forest_01.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.10.19-02.56.49:291][ 33]LightingResults: New page: 라이팅 빌드
+[2020.10.19-02.56.49:292][ 33]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0003 seconds. Added 6 classes and 0 folders.
+[2020.10.19-02.56.49:292][ 33]LoadErrors: New page: 맵 로드중: Postrero_Forest_01.umap
+[2020.10.19-02.56.49:314][ 33]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.10.19-02.56.49:314][ 33]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.19-02.56.49:314][ 33]MapCheck: New page: 맵 체크
+[2020.10.19-02.56.49:314][ 33]LightingResults: New page: 라이팅 빌드
+[2020.10.19-02.56.49:322][ 33]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000019BF8F5E800), frame # 1033
+[2020.10.19-02.56.49:322][ 33]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000019BF8FC9D00), frame # 1033
+[2020.10.19-02.56.49:323][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.10.19-02.56.49:327][ 33]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.10.19-02.56.49:327][ 33]LogAIModule: Creating AISystem for world Postrero_Forest_01
+[2020.10.19-02.56.49:328][ 33]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000019B96661200), frame # 1033
+[2020.10.19-02.56.49:328][ 33]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000019BDDA9ED40), frame # 1033
+[2020.10.19-02.56.49:339][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2020.10.19-02.56.49:351][ 33]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.10.19-02.56.49:351][ 33]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.111ms.
+[2020.10.19-02.56.49:351][ 33]LogFileHelpers: Loading map 'Postrero_Forest_01' took 0.060
+[2020.10.19-02.56.53:170][467]MapCheck: New page: 맵 체크
+[2020.10.19-02.56.53:184][467]LightingResults: New page: 라이팅 빌드 - 2020. 10. 19. 오후 8:56:53
+[2020.10.19-02.56.53:215][467]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.10.19-02.56.53:260][467]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.10.19-02.56.53:268][467]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.10.19-02.56.53:778][467]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.10.19-02.56.53:778][467]LogSwarmInterface: [TryOpenConnection] Local Process ID is 18568
+[2020.10.19-02.56.56:475][467]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.10.19-02.56.56:475][467]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.10.19-02.56.56:475][467]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.10.19-02.56.56:475][467]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.10.19-02.56.56:475][467]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.10.19-02.56.56:587][467]LogEditorBuildUtils: Build time 0:03
+[2020.10.19-02.56.56:626][469]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2020.10.19-02.57.03:531][821]Job is a success!
+[2020.10.19-02.57.03:603][822]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.011s
+[2020.10.19-02.57.03:603][822]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.10.19-02.57.03:603][822]LogVolumetricLightmapImport:      BrickData (all levels) 0.2Mb
+[2020.10.19-02.57.03:603][822]LogVolumetricLightmapImport:      Bricks at depth
+[2020.10.19-02.57.03:603][822]LogVolumetricLightmapImport:          0: 2.4% covering 100.0% of volume
+[2020.10.19-02.57.03:603][822]LogVolumetricLightmapImport:          1: 9.8% covering 6.2% of volume
+[2020.10.19-02.57.03:603][822]LogVolumetricLightmapImport:          2: 87.8% covering 0.9% of volume
+[2020.10.19-02.57.03:603][822]LogVolumetricLightmapImport:      Bricks in each level
+[2020.10.19-02.57.03:603][822]LogVolumetricLightmapImport:          Postrero_Forest_01 			 41 bricks 	 100.0% (Persistent Level)
+[2020.10.19-02.57.03:920][822]LogTexture: Display: 텍스처 빌드: SkyOcclusion1_1 (AutoDXT, 2048X1024)
+[2020.10.19-02.57.03:920][822]LogTexture: Display: 텍스처 빌드: HQ_Lightmap1_1 (AutoDXT, 2048X2048)
+[2020.10.19-02.57.03:920][822]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_1_1 (DXT1, 2048X2048)
+[2020.10.19-02.57.03:920][822]LogTexture: Display: 텍스처 빌드: SkyOcclusion1_2 (AutoDXT, 64X32)
+[2020.10.19-02.57.03:920][822]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2020.10.19-02.57.03:920][822]LogTexture: Display: 텍스처 빌드: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2020.10.19-02.57.03:920][822]Lightmass on LAPTOP-4U8TKLR0: 6.77 sec total, 82 ms importing, 25 ms setup, 2.67 sec photons, 3.96 sec processing, 0 ms extra exporting [2/2 mappings]. Threads: 43.6 sec total, 3.40 sec processing.
+[2020.10.19-02.57.03:920][822]LogStaticLightingSystem: Postrero_Forest_01_BuiltData storing lightmap data for 2 meshes in 2 LightmapResourceClusters (1.0 Meshes per cluster).
+[2020.10.19-02.57.03:933][822]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2020.10.19-02.57.03:949][822]LogStaticLightingSystem: Illumination: 10.7 sec (279 ms encoding lightmaps, 0 ms encoding shadowmaps)
+[2020.10.19-02.57.03:949][822]LogStaticLightingSystem: Lightmap texture memory:  10.7 MB (10.7 MB streaming, 0.0 MB non-streaming), 4 textures
+[2020.10.19-02.57.03:949][822]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2020.10.19-02.57.04:486][822]DumpUnbuiltLightIteractions
+[2020.10.19-02.57.04:486][822]Lights with unbuilt interactions: 0
+[2020.10.19-02.57.04:486][822]
+[2020.10.19-02.57.04:486][822]Primitives with unbuilt interactions: 0
+[2020.10.19-02.57.04:547][823]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.10.19-02.57.04:547][823]MapCheck: New page: Postrero_Forest_01 - 2020. 10. 19. 오후 8:57:04
+[2020.10.19-02.57.04:548][823]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.414ms.
+[2020.10.19-02.57.05:970][991]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2020.10.19-02.57.16:156][573]LogLinker: Warning: '../../../../../../Users/parkm/Documents/GitHub/Postrero_UE4/Postrero/Content/MSPresets/MS_DefaultMaterial/MS_DefaultMaterial.uasset' 로드 도중 '/Game/MSPresets/MS_DefaultMaterial/Functions/MF_DetailNormalTiling' 로드에 실패했습니다: 파일을 찾을 수 없습니다.
+[2020.10.19-02.57.16:156][573]LogLinker: Warning: '../../../../../../Users/parkm/Documents/GitHub/Postrero_UE4/Postrero/Content/MSPresets/MS_DefaultMaterial/MS_DefaultMaterial.uasset' 로드 도중 '/Game/MSPresets/MS_DefaultMaterial/Functions/MF_DetailNormalTiling' 로드에 실패했습니다: 애셋에 대한 파일을 찾을 수 없습니다.
+[2020.10.19-02.57.16:156][573]LogLinker: Warning: '../../../../../../Users/parkm/Documents/GitHub/Postrero_UE4/Postrero/Content/MSPresets/MS_DefaultMaterial/MS_DefaultMaterial.uasset' 로드 도중 '/Game/MSPresets/MS_DefaultMaterial/Functions/MF_MapAdjustments' 로드에 실패했습니다: 파일을 찾을 수 없습니다.
+[2020.10.19-02.57.16:156][573]LogLinker: Warning: '../../../../../../Users/parkm/Documents/GitHub/Postrero_UE4/Postrero/Content/MSPresets/MS_DefaultMaterial/MS_DefaultMaterial.uasset' 로드 도중 '/Game/MSPresets/MS_DefaultMaterial/Functions/MF_MapAdjustments' 로드에 실패했습니다: 애셋에 대한 파일을 찾을 수 없습니다.
+[2020.10.19-02.57.16:157][573]LogLinker: Warning: '../../../../../../Users/parkm/Documents/GitHub/Postrero_UE4/Postrero/Content/MSPresets/MS_DefaultMaterial/MS_DefaultMaterial.uasset' 로드 도중 '/Game/MSPresets/MS_DefaultMaterial/Functions/MF_Tiling' 로드에 실패했습니다: 파일을 찾을 수 없습니다.
+[2020.10.19-02.57.16:157][573]LogLinker: Warning: '../../../../../../Users/parkm/Documents/GitHub/Postrero_UE4/Postrero/Content/MSPresets/MS_DefaultMaterial/MS_DefaultMaterial.uasset' 로드 도중 '/Game/MSPresets/MS_DefaultMaterial/Functions/MF_Tiling' 로드에 실패했습니다: 애셋에 대한 파일을 찾을 수 없습니다.
+[2020.10.19-02.57.16:157][573]LogLinker: Warning: '../../../../../../Users/parkm/Documents/GitHub/Postrero_UE4/Postrero/Content/MSPresets/MS_DefaultMaterial/MS_DefaultMaterial.uasset' 로드 도중 '/Game/MSPresets/MS_DefaultMaterial/Functions/MF_DetailNormalTiling' 로드에 실패했습니다: 파일을 찾을 수 없습니다.
+[2020.10.19-02.57.16:157][573]LogLinker: Warning: '../../../../../../Users/parkm/Documents/GitHub/Postrero_UE4/Postrero/Content/MSPresets/MS_DefaultMaterial/MS_DefaultMaterial.uasset' 로드 도중 '/Game/MSPresets/MS_DefaultMaterial/Functions/MF_DetailNormalTiling' 로드에 실패했습니다: 애셋에 대한 파일을 찾을 수 없습니다.
+[2020.10.19-02.57.16:157][573]LogLinker: Warning: '../../../../../../Users/parkm/Documents/GitHub/Postrero_UE4/Postrero/Content/MSPresets/MS_DefaultMaterial/MS_DefaultMaterial.uasset' 로드 도중 '/Game/MSPresets/MS_DefaultMaterial/Functions/MF_MapAdjustments' 로드에 실패했습니다: 파일을 찾을 수 없습니다.
+[2020.10.19-02.57.16:157][573]LogLinker: Warning: '../../../../../../Users/parkm/Documents/GitHub/Postrero_UE4/Postrero/Content/MSPresets/MS_DefaultMaterial/MS_DefaultMaterial.uasset' 로드 도중 '/Game/MSPresets/MS_DefaultMaterial/Functions/MF_MapAdjustments' 로드에 실패했습니다: 애셋에 대한 파일을 찾을 수 없습니다.
+[2020.10.19-02.57.16:158][573]LogLinker: Warning: '../../../../../../Users/parkm/Documents/GitHub/Postrero_UE4/Postrero/Content/MSPresets/MS_DefaultMaterial/MS_DefaultMaterial.uasset' 로드 도중 '/Game/MSPresets/MS_DefaultMaterial/Functions/MF_Tiling' 로드에 실패했습니다: 파일을 찾을 수 없습니다.
+[2020.10.19-02.57.16:158][573]LogLinker: Warning: '../../../../../../Users/parkm/Documents/GitHub/Postrero_UE4/Postrero/Content/MSPresets/MS_DefaultMaterial/MS_DefaultMaterial.uasset' 로드 도중 '/Game/MSPresets/MS_DefaultMaterial/Functions/MF_Tiling' 로드에 실패했습니다: 애셋에 대한 파일을 찾을 수 없습니다.
+[2020.10.19-02.57.16:159][573]LogLinker: Warning: '../../../../../../Users/parkm/Documents/GitHub/Postrero_UE4/Postrero/Content/MSPresets/MS_DefaultMaterial/MS_DefaultMaterial.uasset' 로드 도중 '/Game/MSPresets/MS_DefaultMaterial/Functions/MF_MapAdjustments' 로드에 실패했습니다: 파일을 찾을 수 없습니다.
+[2020.10.19-02.57.16:159][573]LoadErrors: 로드에 실패했습니다. /Game/MSPresets/MS_DefaultMaterial/Functions/MF_MapAdjustments.MF_MapAdjustments 참조한 것: MS_DefaultMaterial
+[2020.10.19-02.57.16:159][573]LogLinker: Warning: '../../../../../../Users/parkm/Documents/GitHub/Postrero_UE4/Postrero/Content/MSPresets/MS_DefaultMaterial/MS_DefaultMaterial.uasset' 로드 도중 '/Game/MSPresets/MS_DefaultMaterial/Functions/MF_MapAdjustments' 로드에 실패했습니다: 애셋에 대한 파일을 찾을 수 없습니다.
+[2020.10.19-02.57.16:159][573]LogLinker: Warning: '../../../../../../Users/parkm/Documents/GitHub/Postrero_UE4/Postrero/Content/MSPresets/MS_DefaultMaterial/MS_DefaultMaterial.uasset' 로드 도중 '/Game/MSPresets/MS_DefaultMaterial/Functions/MF_Tiling' 로드에 실패했습니다: 파일을 찾을 수 없습니다.
+[2020.10.19-02.57.16:159][573]LoadErrors: 로드에 실패했습니다. /Game/MSPresets/MS_DefaultMaterial/Functions/MF_Tiling.MF_Tiling 참조한 것: MS_DefaultMaterial
+[2020.10.19-02.57.16:160][573]LogLinker: Warning: '../../../../../../Users/parkm/Documents/GitHub/Postrero_UE4/Postrero/Content/MSPresets/MS_DefaultMaterial/MS_DefaultMaterial.uasset' 로드 도중 '/Game/MSPresets/MS_DefaultMaterial/Functions/MF_Tiling' 로드에 실패했습니다: 애셋에 대한 파일을 찾을 수 없습니다.
+[2020.10.19-02.57.16:160][573]LogLinker: Warning: '../../../../../../Users/parkm/Documents/GitHub/Postrero_UE4/Postrero/Content/MSPresets/MS_DefaultMaterial/MS_DefaultMaterial.uasset' 로드 도중 '/Game/MSPresets/MS_DefaultMaterial/Functions/MF_DetailNormalTiling' 로드에 실패했습니다: 파일을 찾을 수 없습니다.
+[2020.10.19-02.57.16:160][573]LoadErrors: 로드에 실패했습니다. /Game/MSPresets/MS_DefaultMaterial/Functions/MF_DetailNormalTiling.MF_DetailNormalTiling 참조한 것: MS_DefaultMaterial
+[2020.10.19-02.57.16:160][573]LogLinker: Warning: '../../../../../../Users/parkm/Documents/GitHub/Postrero_UE4/Postrero/Content/MSPresets/MS_DefaultMaterial/MS_DefaultMaterial.uasset' 로드 도중 '/Game/MSPresets/MS_DefaultMaterial/Functions/MF_DetailNormalTiling' 로드에 실패했습니다: 애셋에 대한 파일을 찾을 수 없습니다.
+[2020.10.19-02.57.16:160][573]LogLinker: Warning: '../../../../../../Users/parkm/Documents/GitHub/Postrero_UE4/Postrero/Content/MSPresets/MS_DefaultMaterial/MS_DefaultMaterial.uasset' 로드 도중 '/Game/MSPresets/MS_DefaultMaterial/Functions/MF_Tiling' 로드에 실패했습니다: 파일을 찾을 수 없습니다.
+[2020.10.19-02.57.16:160][573]LoadErrors: 로드에 실패했습니다. /Game/MSPresets/MS_DefaultMaterial/Functions/MF_Tiling.MF_Tiling 참조한 것: MaterialExpressionMaterialFunctionCall_0
+[2020.10.19-02.57.16:160][573]LogLinker: Warning: '../../../../../../Users/parkm/Documents/GitHub/Postrero_UE4/Postrero/Content/MSPresets/MS_DefaultMaterial/MS_DefaultMaterial.uasset' 로드 도중 '/Game/MSPresets/MS_DefaultMaterial/Functions/MF_Tiling' 로드에 실패했습니다: 애셋에 대한 파일을 찾을 수 없습니다.
+[2020.10.19-02.57.16:161][573]LogLinker: Warning: '../../../../../../Users/parkm/Documents/GitHub/Postrero_UE4/Postrero/Content/MSPresets/MS_DefaultMaterial/MS_DefaultMaterial.uasset' 로드 도중 '/Game/MSPresets/MS_DefaultMaterial/Functions/MF_MapAdjustments' 로드에 실패했습니다: 파일을 찾을 수 없습니다.
+[2020.10.19-02.57.16:161][573]LoadErrors: 로드에 실패했습니다. /Game/MSPresets/MS_DefaultMaterial/Functions/MF_MapAdjustments.MF_MapAdjustments 참조한 것: MaterialExpressionMaterialFunctionCall_10
+[2020.10.19-02.57.16:161][573]LogLinker: Warning: '../../../../../../Users/parkm/Documents/GitHub/Postrero_UE4/Postrero/Content/MSPresets/MS_DefaultMaterial/MS_DefaultMaterial.uasset' 로드 도중 '/Game/MSPresets/MS_DefaultMaterial/Functions/MF_MapAdjustments' 로드에 실패했습니다: 애셋에 대한 파일을 찾을 수 없습니다.
+[2020.10.19-02.57.16:161][573]LogLinker: Warning: '../../../../../../Users/parkm/Documents/GitHub/Postrero_UE4/Postrero/Content/MSPresets/MS_DefaultMaterial/MS_DefaultMaterial.uasset' 로드 도중 '/Game/MSPresets/MS_DefaultMaterial/Functions/MF_DetailNormalTiling' 로드에 실패했습니다: 파일을 찾을 수 없습니다.
+[2020.10.19-02.57.16:161][573]LoadErrors: 로드에 실패했습니다. /Game/MSPresets/MS_DefaultMaterial/Functions/MF_DetailNormalTiling.MF_DetailNormalTiling 참조한 것: MaterialExpressionMaterialFunctionCall_8
+[2020.10.19-02.57.16:161][573]LogLinker: Warning: '../../../../../../Users/parkm/Documents/GitHub/Postrero_UE4/Postrero/Content/MSPresets/MS_DefaultMaterial/MS_DefaultMaterial.uasset' 로드 도중 '/Game/MSPresets/MS_DefaultMaterial/Functions/MF_DetailNormalTiling' 로드에 실패했습니다: 애셋에 대한 파일을 찾을 수 없습니다.
+[2020.10.19-02.57.16:163][573]LogMaterial: Display: Missing cached shader map for material MS_DefaultMaterial, compiling. 
+[2020.10.19-02.57.16:164][573]LogMaterial: Warning: C:\Users\parkm\Documents\GitHub\Postrero_UE4\Postrero\Content\MSPresets\MS_DefaultMaterial\MS_DefaultMaterial.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.10.19-02.57.16:164][573]LogMaterial: Display: 	Missing Material Function
+[2020.10.19-02.57.16:294][573]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\parkm\Documents\Megascans Library\Downloaded\surface\grass_wild_oilpt20\oilpt2_2K_Albedo.jpg)
+[2020.10.19-02.57.16:405][573]LogTexture: Display: 텍스처 빌드: oilpt20_2K_Albedo (AutoDXT, 2048X2048)
+[2020.10.19-02.57.17:432][573]LogTexture: Display: 텍스처 빌드: oilpt20_2K_Albedo (BC7, 2048X2048)
+[2020.10.19-02.57.18:338][573]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\parkm\Documents\Megascans Library\Downloaded\surface\grass_wild_oilpt20\oilpt2_2K_AO.jpg)
+[2020.10.19-02.57.18:414][573]LogTexture: Display: 텍스처 빌드: oilpt20_2K_AO (AutoDXT, 2048X2048)
+[2020.10.19-02.57.19:015][573]LogTexture: Display: 텍스처 빌드: oilpt20_2K_AO (BC7, 2048X2048)
+[2020.10.19-02.57.19:892][573]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\parkm\Documents\Megascans Library\Downloaded\surface\grass_wild_oilpt20\oilpt2_2K_Displacement.jpg)
+[2020.10.19-02.57.19:922][573]LogTexture: Display: 텍스처 빌드: oilpt20_2K_Displacement (AutoDXT, 2048X2048)
+[2020.10.19-02.57.20:116][573]LogTexture: Display: 텍스처 빌드: oilpt20_2K_Displacement (BC7, 2048X2048)
+[2020.10.19-02.57.20:992][573]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\parkm\Documents\Megascans Library\Downloaded\surface\grass_wild_oilpt20\oilpt2_2K_Normal.jpg)
+[2020.10.19-02.57.21:144][573]LogTexture: Display: 텍스처 빌드: oilpt20_2K_Normal (BC5, 2048X2048)
+[2020.10.19-02.57.21:310][573]LogTexture: Display: 텍스처 빌드: oilpt20_2K_Normal (BC5, 2048X2048)
+[2020.10.19-02.57.21:525][573]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\parkm\Documents\Megascans Library\Downloaded\surface\grass_wild_oilpt20\oilpt2_2K_Roughness.jpg)
+[2020.10.19-02.57.21:590][573]LogTexture: Display: 텍스처 빌드: oilpt20_2K_Roughness (AutoDXT, 2048X2048)
+[2020.10.19-02.57.22:339][573]LogTexture: Display: 텍스처 빌드: oilpt20_2K_Roughness (BC7, 2048X2048)
+[2020.10.19-02.57.30:603][452]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.10.19-02.57.31:320][452]LogSlate: Window 'Delete Assets' being destroyed
+[2020.10.19-02.57.31:382][452]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.10.19-02.57.56:734][ 12]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\parkm\Documents\Megascans Library\Downloaded\surface\grass_wild_sgmkajak\sgmkajak_2K_Albedo.tga)
+[2020.10.19-02.57.56:779][ 12]LogTexture: Display: 텍스처 빌드: sgmkajak_2K_Albedo (AutoDXT, 2048X2048)
+[2020.10.19-02.57.57:838][ 12]LogTexture: Display: 텍스처 빌드: sgmkajak_2K_Albedo (BC7, 2048X2048)
+[2020.10.19-02.57.58:784][ 12]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\parkm\Documents\Megascans Library\Downloaded\surface\grass_wild_sgmkajak\sgmkajak_2K_AO.tga)
+[2020.10.19-02.57.58:823][ 12]LogTexture: Display: 텍스처 빌드: sgmkajak_2K_AO (AutoDXT, 2048X2048)
+[2020.10.19-02.57.59:473][ 12]LogTexture: Display: 텍스처 빌드: sgmkajak_2K_AO (BC7, 2048X2048)
+[2020.10.19-02.58.00:418][ 12]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\parkm\Documents\Megascans Library\Downloaded\surface\grass_wild_sgmkajak\sgmkajak_2K_Displacement.tga)
+[2020.10.19-02.58.00:455][ 12]LogTexture: Display: 텍스처 빌드: sgmkajak_2K_Displacement (AutoDXT, 2048X2048)
+[2020.10.19-02.58.00:676][ 12]LogTexture: Display: 텍스처 빌드: sgmkajak_2K_Displacement (BC7, 2048X2048)
+[2020.10.19-02.58.01:557][ 12]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\parkm\Documents\Megascans Library\Downloaded\surface\grass_wild_sgmkajak\sgmkajak_2K_Normal.tga)
+[2020.10.19-02.58.01:592][ 12]LogTexture: Display: 텍스처 빌드: sgmkajak_2K_Normal (BC5, 2048X2048)
+[2020.10.19-02.58.01:741][ 12]LogTexture: Display: 텍스처 빌드: sgmkajak_2K_Normal (BC5, 2048X2048)
+[2020.10.19-02.58.01:991][ 12]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\parkm\Documents\Megascans Library\Downloaded\surface\grass_wild_sgmkajak\sgmkajak_2K_Roughness.tga)
+[2020.10.19-02.58.02:024][ 12]LogTexture: Display: 텍스처 빌드: sgmkajak_2K_Roughness (AutoDXT, 2048X2048)
+[2020.10.19-02.58.02:702][ 12]LogTexture: Display: 텍스처 빌드: sgmkajak_2K_Roughness (BC7, 2048X2048)
+[2020.10.19-02.58.06:067][296]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Pos_Env/3D_Assets/Surfaces/Clover_Patches_On_Grass_2x2_M_00/Clover_Patches_On_Grass_2x2_M_00_inst.Clover_Patches_On_Grass_2x2_M_00_inst
+[2020.10.19-02.58.06:293][296]LogRenderer: Reallocating scene render targets to support 1208x680 Format 10 NumSamples 1 (Frame:1).
+[2020.10.19-02.58.08:818][582]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/MSPresets/MS_DefaultMaterial/MS_DefaultMaterial.MS_DefaultMaterial
+[2020.10.19-02.58.08:820][582]LogMaterial: Display: Missing cached shader map for material MS_DefaultMaterial, compiling. 
+[2020.10.19-02.58.08:821][582]LogMaterial: Warning: /Engine/Transient.MS_DefaultMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.10.19-02.58.08:821][582]LogMaterial: Display: 	Missing Material Function
+[2020.10.19-02.58.08:868][582]LogMaterial: Display: Missing cached shader map for material MS_DefaultMaterial, compiling. 
+[2020.10.19-02.58.08:869][582]LogMaterial: Warning: /Engine/Transient.MS_DefaultMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.10.19-02.58.08:869][582]LogMaterial: Display: 	Missing Material Function
+[2020.10.19-02.58.08:870][582]LogMaterial: Display: Missing cached shader map for material MS_DefaultMaterial, compiling. 
+[2020.10.19-02.58.08:870][582]LogMaterial: Warning: /Engine/Transient.MS_DefaultMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.10.19-02.58.08:870][582]LogMaterial: Display: 	Missing Material Function
+[2020.10.19-02.58.08:878][582]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_2, compiling. 
+[2020.10.19-02.58.08:879][582]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2020.10.19-02.58.08:879][582]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2020.10.19-02.58.08:880][582]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_3, compiling. 
+[2020.10.19-02.58.08:880][582]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_4, compiling. 
+[2020.10.19-02.58.08:898][582]MaterialEditorStats: Error: [SM5] Missing Material Function
+[2020.10.19-02.58.08:902][582]LogSlate: Took 0.000153 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.10.19-02.58.08:933][582]LogSlate: Took 0.000088 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2020.10.19-02.58.10:308][740]LogSlate: Took 0.000194 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.10.19-02.58.33:574][482]LogSlate: Window 'MS_DefaultMaterial' being destroyed
+[2020.10.19-02.58.33:578][482]LogSlate: Window 'MS_DefaultMaterial' being destroyed
+[2020.10.19-02.58.33:588][482]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.10.19-02.58.33:608][482]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.10.19-02.58.33:608][482]TextureStreamingBuild: Display: Compiling optional shaders took 0.004 seconds.
+[2020.10.19-02.58.33:617][482]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2020.10.19-02.58.33:632][482]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.10.19-02.58.33:632][482]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.19-02.58.33:662][482]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.10.19-02.58.33:662][482]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.19-02.59.41:901][850]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2020.10.19-02.59.43:653][850]LogSlate: Window 'Delete Assets' being destroyed
+[2020.10.19-02.59.43:713][850]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.10.19-03.00.17:708][708]SourceControl: Error: warning: could not open directory 'Postrero/Content/Pos_Env/3D_Assets/Surfaces/': No such file or directory
+[2020.10.19-03.00.17:797][708]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\parkm\Documents\Megascans Library\Downloaded\surface\ground_Forest_tjmnaerdy\tjmnaerdy_2K_Albedo.tga)
+[2020.10.19-03.00.17:842][708]LogTexture: Display: 텍스처 빌드: tjmnaerdy_2K_Albedo (AutoDXT, 2048X2048)
+[2020.10.19-03.00.18:829][708]LogTexture: Display: 텍스처 빌드: tjmnaerdy_2K_Albedo (BC7, 2048X2048)
+[2020.10.19-03.00.19:756][708]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\parkm\Documents\Megascans Library\Downloaded\surface\ground_Forest_tjmnaerdy\tjmnaerdy_2K_AO.tga)
+[2020.10.19-03.00.19:795][708]LogTexture: Display: 텍스처 빌드: tjmnaerdy_2K_AO (AutoDXT, 2048X2048)
+[2020.10.19-03.00.20:632][708]LogTexture: Display: 텍스처 빌드: tjmnaerdy_2K_AO (BC7, 2048X2048)
+[2020.10.19-03.00.21:510][708]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\parkm\Documents\Megascans Library\Downloaded\surface\ground_Forest_tjmnaerdy\tjmnaerdy_2K_Displacement.tga)
+[2020.10.19-03.00.21:548][708]LogTexture: Display: 텍스처 빌드: tjmnaerdy_2K_Displacement (AutoDXT, 2048X2048)
+[2020.10.19-03.00.21:762][708]LogTexture: Display: 텍스처 빌드: tjmnaerdy_2K_Displacement (BC7, 2048X2048)
+[2020.10.19-03.00.22:640][708]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\parkm\Documents\Megascans Library\Downloaded\surface\ground_Forest_tjmnaerdy\tjmnaerdy_2K_Normal.tga)
+[2020.10.19-03.00.22:676][708]LogTexture: Display: 텍스처 빌드: tjmnaerdy_2K_Normal (BC5, 2048X2048)
+[2020.10.19-03.00.22:842][708]LogTexture: Display: 텍스처 빌드: tjmnaerdy_2K_Normal (BC5, 2048X2048)
+[2020.10.19-03.00.23:094][708]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\parkm\Documents\Megascans Library\Downloaded\surface\ground_Forest_tjmnaerdy\tjmnaerdy_2K_Roughness.tga)
+[2020.10.19-03.00.23:127][708]LogTexture: Display: 텍스처 빌드: tjmnaerdy_2K_Roughness (AutoDXT, 2048X2048)
+[2020.10.19-03.00.23:700][708]LogTexture: Display: 텍스처 빌드: tjmnaerdy_2K_Roughness (BC7, 2048X2048)
+[2020.10.19-03.00.48:737][574]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2020.10.19-03.00.49:589][574]LogSlate: Window 'Delete Assets' being destroyed
+[2020.10.19-03.00.49:648][574]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2020.10.19-03.01.47:099][638]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Content' is outside repository at 'C:/Users/parkm/Documents/GitHub/Postrero_UE4'
+[2020.10.19-03.01.47:099][638]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/2D/Paper2D/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'C:/Users/parkm/Documents/GitHub/Postrero_UE4'
+[2020.10.19-03.01.47:099][638]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Developer/AnimationSharing/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'C:/Users/parkm/Documents/GitHub/Postrero_UE4'
+[2020.10.19-03.01.47:099][638]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Editor/GeometryMode/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'C:/Users/parkm/Documents/GitHub/Postrero_UE4'
+[2020.10.19-03.01.47:099][638]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Enterprise/DatasmithContent/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'C:/Users/parkm/Documents/GitHub/Postrero_UE4'
+[2020.10.19-03.01.47:099][638]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'C:/Users/parkm/Documents/GitHub/Postrero_UE4'
+[2020.10.19-03.01.47:099][638]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosNiagara/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'C:/Users/parkm/Documents/GitHub/Postrero_UE4'
+[2020.10.19-03.01.47:099][638]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'C:/Users/parkm/Documents/GitHub/Postrero_UE4'
+[2020.10.19-03.01.47:099][638]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'C:/Users/parkm/Documents/GitHub/Postrero_UE4'
+[2020.10.19-03.01.47:099][638]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/GeometryProcessing/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'C:/Users/parkm/Documents/GitHub/Postrero_UE4'
+[2020.10.19-03.01.47:099][638]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'C:/Users/parkm/Documents/GitHub/Postrero_UE4'
+[2020.10.19-03.01.47:099][638]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/FX/Niagara/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/FX/Niagara/Content' is outside repository at 'C:/Users/parkm/Documents/GitHub/Postrero_UE4'
+[2020.10.19-03.01.47:099][638]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Lumin/MagicLeap/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'C:/Users/parkm/Documents/GitHub/Postrero_UE4'
+[2020.10.19-03.01.47:099][638]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'C:/Users/parkm/Documents/GitHub/Postrero_UE4'
+[2020.10.19-03.01.47:099][638]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Marketplace/Substance/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Marketplace/Substance/Content' is outside repository at 'C:/Users/parkm/Documents/GitHub/Postrero_UE4'
+[2020.10.19-03.01.47:099][638]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Media/MediaCompositing/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'C:/Users/parkm/Documents/GitHub/Postrero_UE4'
+[2020.10.19-03.01.47:099][638]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/MegascansPlugin/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/MegascansPlugin/Content' is outside repository at 'C:/Users/parkm/Documents/GitHub/Postrero_UE4'
+[2020.10.19-03.01.47:099][638]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/MovieScene/MovieRenderPipeline/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/MovieScene/MovieRenderPipeline/Content' is outside repository at 'C:/Users/parkm/Documents/GitHub/Postrero_UE4'
+[2020.10.19-03.01.47:099][638]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'C:/Users/parkm/Documents/GitHub/Postrero_UE4'
+[2020.10.19-03.01.47:099][638]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/PostSplashScreen/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'C:/Users/parkm/Documents/GitHub/Postrero_UE4'
+[2020.10.19-03.01.47:099][638]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'C:/Users/parkm/Documents/GitHub/Postrero_UE4'
+[2020.10.19-03.01.48:562][638]LogSlate: Window '콘텐츠 저장' being destroyed
+[2020.10.19-03.01.48:641][638]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2020.10.19-03.01.48:663][638]LogSavePackage: Moving '../../../../../../Users/parkm/Documents/GitHub/Postrero_UE4/Postrero/Saved/Postrero_Forest_01C438FC9644006C32545FF59C2BB1734D.tmp' to '../../../../../../Users/parkm/Documents/GitHub/Postrero_UE4/Postrero/Content/Levels/Postrero_Forest_01.umap'
+[2020.10.19-03.01.48:677][638]LogFileHelpers: Saving map 'Postrero_Forest_01' took 0.046
+[2020.10.19-03.01.48:741][638]LogSavePackage: Moving '../../../../../../Users/parkm/Documents/GitHub/Postrero_UE4/Postrero/Saved/Postrero_Forest_01_BuiltData629FDEC34195DC413304B0B1BB3F9166.tmp' to '../../../../../../Users/parkm/Documents/GitHub/Postrero_UE4/Postrero/Content/Levels/Postrero_Forest_01_BuiltData.uasset'
+[2020.10.19-03.02.10:185][638]LogSlate: Window '파일 제출' being destroyed
+[2020.10.19-03.02.10:743][638]LogSourceControl: commit successful: [master 1ff57be] create new levels
+[2020.10.19-03.02.10:788][638]SourceControl: [master 1ff57be] create new levels
+[2020.10.19-03.02.10:788][638]SourceControl:  2 files changed, 0 insertions(+), 0 deletions(-)
+[2020.10.19-03.02.10:788][638]SourceControl:  create mode 100644 Postrero/Content/Levels/Postrero_Forest_01.umap
+[2020.10.19-03.02.10:788][638]SourceControl:  create mode 100644 Postrero/Content/Levels/Postrero_Forest_01_BuiltData.uasset
+[2020.10.19-03.02.10:792][638]SourceControl: [master 1ff57be] create new levels 커밋했습니다.
+[2020.10.19-03.02.10:808][639]AssetCheck: New page: 애셋 저장: 애셋이 다수입니다.
+[2020.10.19-03.02.10:808][639]LogContentValidation: Display: World /Game/Levels/Postrero_Forest_01.Postrero_Forest_01 유효성 검사
+[2020.10.19-03.02.10:808][639]LogContentValidation: Display: MapBuildDataRegistry /Game/Levels/Postrero_Forest_01_BuiltData.Postrero_Forest_01_BuiltData 유효성 검사
+[2020.10.19-03.02.12:297][789]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.10.19-03.04.19:086][507]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\parkm\Documents\Megascans Library\Downloaded\surface\ground_Forest_tjmnaerdy\tjmnaerdy_4K_Albedo.jpg)
+[2020.10.19-03.04.19:695][507]LogTexture: Display: 텍스처 빌드: tjmnaerdy_4K_Albedo (AutoDXT, 4096X4096)
+[2020.10.19-03.04.23:521][507]LogTexture: Display: 텍스처 빌드: tjmnaerdy_4K_Albedo (BC7, 4096X4096)
+[2020.10.19-03.04.26:913][507]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\parkm\Documents\Megascans Library\Downloaded\surface\ground_Forest_tjmnaerdy\tjmnaerdy_4K_AO.jpg)
+[2020.10.19-03.04.27:243][507]LogTexture: Display: 텍스처 빌드: tjmnaerdy_4K_AO (AutoDXT, 4096X4096)
+[2020.10.19-03.04.30:372][507]LogTexture: Display: 텍스처 빌드: tjmnaerdy_4K_AO (BC7, 4096X4096)
+[2020.10.19-03.04.33:605][507]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\parkm\Documents\Megascans Library\Downloaded\surface\ground_Forest_tjmnaerdy\tjmnaerdy_4K_Displacement.jpg)
+[2020.10.19-03.04.33:808][507]LogTexture: Display: 텍스처 빌드: tjmnaerdy_4K_Displacement (AutoDXT, 4096X4096)
+[2020.10.19-03.04.34:518][507]LogTexture: Display: 텍스처 빌드: tjmnaerdy_4K_Displacement (BC7, 4096X4096)
+[2020.10.19-03.04.37:828][507]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\parkm\Documents\Megascans Library\Downloaded\surface\ground_Forest_tjmnaerdy\tjmnaerdy_4K_Normal.jpg)
+[2020.10.19-03.04.38:612][507]LogTexture: Display: 텍스처 빌드: tjmnaerdy_4K_Normal (BC5, 4096X4096)
+[2020.10.19-03.04.39:199][507]LogTexture: Display: 텍스처 빌드: tjmnaerdy_4K_Normal (BC5, 4096X4096)
+[2020.10.19-03.04.39:850][507]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\parkm\Documents\Megascans Library\Downloaded\surface\ground_Forest_tjmnaerdy\tjmnaerdy_4K_Roughness.jpg)
+[2020.10.19-03.04.40:171][507]LogTexture: Display: 텍스처 빌드: tjmnaerdy_4K_Roughness (AutoDXT, 4096X4096)
+[2020.10.19-03.04.42:403][507]LogTexture: Display: 텍스처 빌드: tjmnaerdy_4K_Roughness (BC7, 4096X4096)
+[2020.10.19-03.07.11:490][174]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Pos_Env/3D_Assets/Surfaces/Forest_Mulch_2x2_M_00/Forest_Mulch_2x2_M_00_inst.Forest_Mulch_2x2_M_00_inst
+[2020.10.19-03.08.31:993][480]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/MSPresets/MS_DefaultMaterial/MS_DefaultMaterial.MS_DefaultMaterial
+[2020.10.19-03.08.31:994][480]LogMaterial: Display: Missing cached shader map for material MS_DefaultMaterial, compiling. 
+[2020.10.19-03.08.31:995][480]LogMaterial: Warning: /Engine/Transient.MS_DefaultMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.10.19-03.08.31:995][480]LogMaterial: Display: 	Missing Material Function
+[2020.10.19-03.08.32:039][480]LogMaterial: Display: Missing cached shader map for material MS_DefaultMaterial, compiling. 
+[2020.10.19-03.08.32:040][480]LogMaterial: Warning: /Engine/Transient.MS_DefaultMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.10.19-03.08.32:040][480]LogMaterial: Display: 	Missing Material Function
+[2020.10.19-03.08.32:041][480]LogMaterial: Display: Missing cached shader map for material MS_DefaultMaterial, compiling. 
+[2020.10.19-03.08.32:041][480]LogMaterial: Warning: /Engine/Transient.MS_DefaultMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.10.19-03.08.32:041][480]LogMaterial: Display: 	Missing Material Function
+[2020.10.19-03.08.32:046][480]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_2, compiling. 
+[2020.10.19-03.08.32:047][480]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2020.10.19-03.08.32:047][480]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2020.10.19-03.08.32:048][480]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_3, compiling. 
+[2020.10.19-03.08.32:048][480]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_4, compiling. 
+[2020.10.19-03.08.32:063][480]MaterialEditorStats: Error: [SM5] Missing Material Function
+[2020.10.19-03.09.26:911][394]LogSlate: Window 'MS_DefaultMaterial' being destroyed
+[2020.10.19-03.09.26:913][394]LogSlate: Window 'MS_DefaultMaterial' being destroyed
+[2020.10.19-03.09.26:922][394]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2020.10.19-03.09.26:940][394]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.10.19-03.09.26:940][394]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2020.10.19-03.09.26:949][394]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2020.10.19-03.09.26:969][394]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.10.19-03.09.26:970][394]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.19-03.09.26:998][394]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.10.19-03.09.26:998][394]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.19-03.09.30:767][785]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2020.10.19-03.09.31:610][785]LogSlate: Window 'Delete Assets' being destroyed
+[2020.10.19-03.09.31:675][785]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2020.10.19-03.11.02:579][312]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\parkm\Documents\Megascans Library\Downloaded\surface\ground_Forest_tjmnaerdy\tjmnaerdy_4K_Albedo.jpg)
+[2020.10.19-03.11.03:169][312]LogTexture: Display: 텍스처 빌드: tjmnaerdy_4K_Albedo (AutoDXT, 4096X4096)
+[2020.10.19-03.11.06:989][312]LogTexture: Display: 텍스처 빌드: tjmnaerdy_4K_Albedo (BC7, 4096X4096)
+[2020.10.19-03.11.10:381][312]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\parkm\Documents\Megascans Library\Downloaded\surface\ground_Forest_tjmnaerdy\tjmnaerdy_4K_AO.jpg)
+[2020.10.19-03.11.10:707][312]LogTexture: Display: 텍스처 빌드: tjmnaerdy_4K_AO (AutoDXT, 4096X4096)
+[2020.10.19-03.11.13:849][312]LogTexture: Display: 텍스처 빌드: tjmnaerdy_4K_AO (BC7, 4096X4096)
+[2020.10.19-03.11.17:103][312]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\parkm\Documents\Megascans Library\Downloaded\surface\ground_Forest_tjmnaerdy\tjmnaerdy_4K_Displacement.jpg)
+[2020.10.19-03.11.17:311][312]LogTexture: Display: 텍스처 빌드: tjmnaerdy_4K_Displacement (AutoDXT, 4096X4096)
+[2020.10.19-03.11.18:043][312]LogTexture: Display: 텍스처 빌드: tjmnaerdy_4K_Displacement (BC7, 4096X4096)
+[2020.10.19-03.11.21:381][312]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\parkm\Documents\Megascans Library\Downloaded\surface\ground_Forest_tjmnaerdy\tjmnaerdy_4K_Normal.jpg)
+[2020.10.19-03.11.22:130][312]LogTexture: Display: 텍스처 빌드: tjmnaerdy_4K_Normal (BC5, 4096X4096)
+[2020.10.19-03.11.22:691][312]LogTexture: Display: 텍스처 빌드: tjmnaerdy_4K_Normal (BC5, 4096X4096)
+[2020.10.19-03.11.23:330][312]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\parkm\Documents\Megascans Library\Downloaded\surface\ground_Forest_tjmnaerdy\tjmnaerdy_4K_Roughness.jpg)
+[2020.10.19-03.11.23:637][312]LogTexture: Display: 텍스처 빌드: tjmnaerdy_4K_Roughness (AutoDXT, 4096X4096)
+[2020.10.19-03.11.25:780][312]LogTexture: Display: 텍스처 빌드: tjmnaerdy_4K_Roughness (BC7, 4096X4096)
+[2020.10.19-03.11.57:172][605]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.10.19-03.11.57:175][605]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Postrero_Forest_01' took 0.012
+[2020.10.19-03.11.57:176][605]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Pos_Env/3D_Assets/Surfaces/Forest_Mulch_2x2_M_00/Forest_Mulch_2x2_M_00_inst] ([1] browsable assets)...
+[2020.10.19-03.11.57:194][605]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Pos_Env/3D_Assets/Surfaces/Forest_Mulch_2x2_M_00/Forest_Mulch_2x2_M_00_inst.Forest_Mulch_2x2_M_00_inst]
+[2020.10.19-03.11.57:194][605]OBJ SavePackage: Finished generating thumbnails for package [/Game/Pos_Env/3D_Assets/Surfaces/Forest_Mulch_2x2_M_00/Forest_Mulch_2x2_M_00_inst]
+[2020.10.19-03.11.57:200][605]LogSavePackage: Moving '../../../../../../Users/parkm/Documents/GitHub/Postrero_UE4/Postrero/Saved/Forest_Mulch_2x2_M_00_inst_Auto1A3F307594C41730D7947BA9DC5A3F2A8.tmp' to '../../../../../../Users/parkm/Documents/GitHub/Postrero_UE4/Postrero/Saved/Autosaves/Game/Pos_Env/3D_Assets/Surfaces/Forest_Mulch_2x2_M_00/Forest_Mulch_2x2_M_00_inst_Auto1.uasset'
+[2020.10.19-03.11.57:201][605]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Pos_Env/3D_Assets/Surfaces/Forest_Mulch_2x2_M_00/tjmnaerdy_4K_Albedo] ([1] browsable assets)...
+[2020.10.19-03.11.57:206][605]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Pos_Env/3D_Assets/Surfaces/Forest_Mulch_2x2_M_00/tjmnaerdy_4K_Albedo.tjmnaerdy_4K_Albedo]
+[2020.10.19-03.11.57:206][605]OBJ SavePackage: Finished generating thumbnails for package [/Game/Pos_Env/3D_Assets/Surfaces/Forest_Mulch_2x2_M_00/tjmnaerdy_4K_Albedo]
+[2020.10.19-03.11.57:259][605]LogSavePackage: Moving '../../../../../../Users/parkm/Documents/GitHub/Postrero_UE4/Postrero/Saved/tjmnaerdy_4K_Albedo_Auto1376C748A496FB58EE256B2BFC574CDB8.tmp' to '../../../../../../Users/parkm/Documents/GitHub/Postrero_UE4/Postrero/Saved/Autosaves/Game/Pos_Env/3D_Assets/Surfaces/Forest_Mulch_2x2_M_00/tjmnaerdy_4K_Albedo_Auto1.uasset'
+[2020.10.19-03.11.57:260][605]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Pos_Env/3D_Assets/Surfaces/Forest_Mulch_2x2_M_00/tjmnaerdy_4K_AO] ([1] browsable assets)...
+[2020.10.19-03.11.57:266][605]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Pos_Env/3D_Assets/Surfaces/Forest_Mulch_2x2_M_00/tjmnaerdy_4K_AO.tjmnaerdy_4K_AO]
+[2020.10.19-03.11.57:266][605]OBJ SavePackage: Finished generating thumbnails for package [/Game/Pos_Env/3D_Assets/Surfaces/Forest_Mulch_2x2_M_00/tjmnaerdy_4K_AO]
+[2020.10.19-03.11.57:315][605]LogSavePackage: Moving '../../../../../../Users/parkm/Documents/GitHub/Postrero_UE4/Postrero/Saved/tjmnaerdy_4K_AO_Auto1BD73C4EF414D9C38C66C2C9343092236.tmp' to '../../../../../../Users/parkm/Documents/GitHub/Postrero_UE4/Postrero/Saved/Autosaves/Game/Pos_Env/3D_Assets/Surfaces/Forest_Mulch_2x2_M_00/tjmnaerdy_4K_AO_Auto1.uasset'
+[2020.10.19-03.11.57:317][605]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Pos_Env/3D_Assets/Surfaces/Forest_Mulch_2x2_M_00/tjmnaerdy_4K_Displacement] ([1] browsable assets)...
+[2020.10.19-03.11.57:322][605]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Pos_Env/3D_Assets/Surfaces/Forest_Mulch_2x2_M_00/tjmnaerdy_4K_Displacement.tjmnaerdy_4K_Displacement]
+[2020.10.19-03.11.57:322][605]OBJ SavePackage: Finished generating thumbnails for package [/Game/Pos_Env/3D_Assets/Surfaces/Forest_Mulch_2x2_M_00/tjmnaerdy_4K_Displacement]
+[2020.10.19-03.11.57:368][605]LogSavePackage: Moving '../../../../../../Users/parkm/Documents/GitHub/Postrero_UE4/Postrero/Saved/tjmnaerdy_4K_Displacement_Auto1031C53004A0EBB59EB47B98263172937.tmp' to '../../../../../../Users/parkm/Documents/GitHub/Postrero_UE4/Postrero/Saved/Autosaves/Game/Pos_Env/3D_Assets/Surfaces/Forest_Mulch_2x2_M_00/tjmnaerdy_4K_Displacement_Auto1.uasset'
+[2020.10.19-03.11.57:369][605]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Pos_Env/3D_Assets/Surfaces/Forest_Mulch_2x2_M_00/tjmnaerdy_4K_Normal] ([1] browsable assets)...
+[2020.10.19-03.11.57:374][605]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Pos_Env/3D_Assets/Surfaces/Forest_Mulch_2x2_M_00/tjmnaerdy_4K_Normal.tjmnaerdy_4K_Normal]
+[2020.10.19-03.11.57:374][605]OBJ SavePackage: Finished generating thumbnails for package [/Game/Pos_Env/3D_Assets/Surfaces/Forest_Mulch_2x2_M_00/tjmnaerdy_4K_Normal]
+[2020.10.19-03.11.57:422][605]LogSavePackage: Moving '../../../../../../Users/parkm/Documents/GitHub/Postrero_UE4/Postrero/Saved/tjmnaerdy_4K_Normal_Auto1A388F7114428AC92FC782D8513837888.tmp' to '../../../../../../Users/parkm/Documents/GitHub/Postrero_UE4/Postrero/Saved/Autosaves/Game/Pos_Env/3D_Assets/Surfaces/Forest_Mulch_2x2_M_00/tjmnaerdy_4K_Normal_Auto1.uasset'
+[2020.10.19-03.11.57:423][605]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Pos_Env/3D_Assets/Surfaces/Forest_Mulch_2x2_M_00/tjmnaerdy_4K_Roughness] ([1] browsable assets)...
+[2020.10.19-03.11.57:428][605]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Pos_Env/3D_Assets/Surfaces/Forest_Mulch_2x2_M_00/tjmnaerdy_4K_Roughness.tjmnaerdy_4K_Roughness]
+[2020.10.19-03.11.57:428][605]OBJ SavePackage: Finished generating thumbnails for package [/Game/Pos_Env/3D_Assets/Surfaces/Forest_Mulch_2x2_M_00/tjmnaerdy_4K_Roughness]
+[2020.10.19-03.11.57:471][605]LogSavePackage: Moving '../../../../../../Users/parkm/Documents/GitHub/Postrero_UE4/Postrero/Saved/tjmnaerdy_4K_Roughness_Auto1C727E52F49905C7F8EB51386226BD431.tmp' to '../../../../../../Users/parkm/Documents/GitHub/Postrero_UE4/Postrero/Saved/Autosaves/Game/Pos_Env/3D_Assets/Surfaces/Forest_Mulch_2x2_M_00/tjmnaerdy_4K_Roughness_Auto1.uasset'
+[2020.10.19-03.11.57:472][605]LogFileHelpers: Auto-saving content packages took 0.297
+[2020.10.19-03.12.51:794][812]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Pos_Env/3D_Assets/Surfaces/Forest_Mulch_2x2_M_00/Forest_Mulch_2x2_M_00_inst.Forest_Mulch_2x2_M_00_inst
+[2020.10.19-03.12.53:860][931]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/MSPresets/MS_DefaultMaterial/MS_DefaultMaterial.MS_DefaultMaterial
+[2020.10.19-03.12.53:862][931]LogMaterial: Display: Missing cached shader map for material MS_DefaultMaterial, compiling. 
+[2020.10.19-03.12.53:862][931]LogMaterial: Warning: /Engine/Transient.MS_DefaultMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.10.19-03.12.53:862][931]LogMaterial: Display: 	Missing Material Function
+[2020.10.19-03.12.53:907][931]LogMaterial: Display: Missing cached shader map for material MS_DefaultMaterial, compiling. 
+[2020.10.19-03.12.53:907][931]LogMaterial: Warning: /Engine/Transient.MS_DefaultMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.10.19-03.12.53:907][931]LogMaterial: Display: 	Missing Material Function
+[2020.10.19-03.12.53:908][931]LogMaterial: Display: Missing cached shader map for material MS_DefaultMaterial, compiling. 
+[2020.10.19-03.12.53:909][931]LogMaterial: Warning: /Engine/Transient.MS_DefaultMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.10.19-03.12.53:909][931]LogMaterial: Display: 	Missing Material Function
+[2020.10.19-03.12.53:917][931]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_2, compiling. 
+[2020.10.19-03.12.53:917][931]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2020.10.19-03.12.53:918][931]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2020.10.19-03.12.53:918][931]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_3, compiling. 
+[2020.10.19-03.12.53:919][931]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_4, compiling. 
+[2020.10.19-03.12.53:933][931]MaterialEditorStats: Error: [SM5] Missing Material Function
+[2020.10.19-03.13.57:413][687]LogMaterial: Display: Missing cached shader map for material MS_DefaultMaterial, compiling. 
+[2020.10.19-03.13.57:414][687]LogMaterial: Warning: /Engine/Transient.MS_DefaultMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.10.19-03.13.57:414][687]LogMaterial: Display: 	Missing Material Function
+[2020.10.19-03.14.37:443][ 86]LogEditorTransaction: Undo 노드 이동
+[2020.10.19-03.14.37:455][ 86]LogMaterial: Display: Missing cached shader map for material MS_DefaultMaterial, compiling. 
+[2020.10.19-03.14.37:455][ 86]LogMaterial: Warning: /Engine/Transient.MS_DefaultMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.10.19-03.14.37:455][ 86]LogMaterial: Display: 	Missing Material Function
+[2020.10.19-03.16.52:394][770]LogSlate: Window '메시지' being destroyed
+[2020.10.19-03.16.52:398][770]Message dialog closed, result: No, title: 메시지, text: 이 머티리얼의 변경내용을 원본 머티리얼에 적용할까요?
+/Game/MSPresets/MS_DefaultMaterial/MS_DefaultMaterial.MS_DefaultMaterial
+(아니오는 변경내용을 잃습니다!)
+[2020.10.19-03.16.52:403][770]LogSlate: Window 'MS_DefaultMaterial' being destroyed
+[2020.10.19-03.16.52:404][770]LogSlate: Window 'MS_DefaultMaterial' being destroyed
+[2020.10.19-03.16.52:413][770]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.10.19-03.16.52:423][770]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.10.19-03.16.52:424][770]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2020.10.19-03.16.52:432][770]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2020.10.19-03.16.52:448][770]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.10.19-03.16.52:448][770]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.19-03.16.52:479][770]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.10.19-03.16.52:479][770]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.19-03.16.55:561][896]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2020.10.19-03.16.56:403][896]LogSlate: Window '콘텐츠 저장' being destroyed
+[2020.10.19-03.16.56:484][896]LogSavePackage: Moving '../../../../../../Users/parkm/Documents/GitHub/Postrero_UE4/Postrero/Saved/Forest_Mulch_2x2_M_00_instD7AD9F4B417582B6316E9F9952760473.tmp' to '../../../../../../Users/parkm/Documents/GitHub/Postrero_UE4/Postrero/Content/Pos_Env/3D_Assets/Surfaces/Forest_Mulch_2x2_M_00/Forest_Mulch_2x2_M_00_inst.uasset'
+[2020.10.19-03.16.57:712][896]LogSavePackage: Moving '../../../../../../Users/parkm/Documents/GitHub/Postrero_UE4/Postrero/Saved/tjmnaerdy_4K_Albedo4AD2D0A04AA76B31ADB68CAECA6DB092.tmp' to '../../../../../../Users/parkm/Documents/GitHub/Postrero_UE4/Postrero/Content/Pos_Env/3D_Assets/Surfaces/Forest_Mulch_2x2_M_00/tjmnaerdy_4K_Albedo.uasset'
+[2020.10.19-03.16.59:856][896]LogSavePackage: Moving '../../../../../../Users/parkm/Documents/GitHub/Postrero_UE4/Postrero/Saved/tjmnaerdy_4K_AO45093E224AB0967CB8581ABCFAD1C5D4.tmp' to '../../../../../../Users/parkm/Documents/GitHub/Postrero_UE4/Postrero/Content/Pos_Env/3D_Assets/Surfaces/Forest_Mulch_2x2_M_00/tjmnaerdy_4K_AO.uasset'
+[2020.10.19-03.17.01:300][896]LogSavePackage: Moving '../../../../../../Users/parkm/Documents/GitHub/Postrero_UE4/Postrero/Saved/tjmnaerdy_4K_Displacement7FF4FF5F45AF478F328966B747D1F35B.tmp' to '../../../../../../Users/parkm/Documents/GitHub/Postrero_UE4/Postrero/Content/Pos_Env/3D_Assets/Surfaces/Forest_Mulch_2x2_M_00/tjmnaerdy_4K_Displacement.uasset'
+[2020.10.19-03.17.03:547][896]LogSavePackage: Moving '../../../../../../Users/parkm/Documents/GitHub/Postrero_UE4/Postrero/Saved/tjmnaerdy_4K_Normal18FC5F6B49FCC677EBCD349D72395712.tmp' to '../../../../../../Users/parkm/Documents/GitHub/Postrero_UE4/Postrero/Content/Pos_Env/3D_Assets/Surfaces/Forest_Mulch_2x2_M_00/tjmnaerdy_4K_Normal.uasset'
+[2020.10.19-03.17.06:018][896]LogSavePackage: Moving '../../../../../../Users/parkm/Documents/GitHub/Postrero_UE4/Postrero/Saved/tjmnaerdy_4K_Roughness1082495B46E9A901727B2FBB01E0487B.tmp' to '../../../../../../Users/parkm/Documents/GitHub/Postrero_UE4/Postrero/Content/Pos_Env/3D_Assets/Surfaces/Forest_Mulch_2x2_M_00/tjmnaerdy_4K_Roughness.uasset'
+[2020.10.19-03.17.06:907][896]AssetCheck: New page: 애셋 저장: 애셋이 다수입니다.
+[2020.10.19-03.17.06:907][896]LogContentValidation: Display: MaterialInstanceConstant /Game/Pos_Env/3D_Assets/Surfaces/Forest_Mulch_2x2_M_00/Forest_Mulch_2x2_M_00_inst.Forest_Mulch_2x2_M_00_inst 유효성 검사
+[2020.10.19-03.17.06:907][896]LogContentValidation: Display: Texture2D /Game/Pos_Env/3D_Assets/Surfaces/Forest_Mulch_2x2_M_00/tjmnaerdy_4K_Albedo.tjmnaerdy_4K_Albedo 유효성 검사
+[2020.10.19-03.17.06:907][896]LogContentValidation: Display: Texture2D /Game/Pos_Env/3D_Assets/Surfaces/Forest_Mulch_2x2_M_00/tjmnaerdy_4K_AO.tjmnaerdy_4K_AO 유효성 검사
+[2020.10.19-03.17.06:907][896]LogContentValidation: Display: Texture2D /Game/Pos_Env/3D_Assets/Surfaces/Forest_Mulch_2x2_M_00/tjmnaerdy_4K_Displacement.tjmnaerdy_4K_Displacement 유효성 검사
+[2020.10.19-03.17.06:907][896]LogContentValidation: Display: Texture2D /Game/Pos_Env/3D_Assets/Surfaces/Forest_Mulch_2x2_M_00/tjmnaerdy_4K_Normal.tjmnaerdy_4K_Normal 유효성 검사
+[2020.10.19-03.17.06:907][896]LogContentValidation: Display: Texture2D /Game/Pos_Env/3D_Assets/Surfaces/Forest_Mulch_2x2_M_00/tjmnaerdy_4K_Roughness.tjmnaerdy_4K_Roughness 유효성 검사
+[2020.10.19-03.17.12:259][212]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2020.10.19-03.17.13:516][212]LogSlate: Window 'Delete Assets' being destroyed
+[2020.10.19-03.17.13:625][212]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.10.19-03.17.13:635][212]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2020.10.19-03.17.13:644][212]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2020.10.19-03.17.13:653][212]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2020.10.19-03.17.13:663][212]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2020.10.19-03.17.13:673][212]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2020.10.19-03.17.13:697][212]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2020.10.19-03.17.13:707][212]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2020.10.19-03.17.13:802][212]SourceControl: Error: warning: could not open directory 'Postrero/Content/Pos_Env/3D_Assets/Surfaces/': No such file or directory
+[2020.10.19-03.17.13:802][212]SourceControl: rm 'Postrero/Content/Pos_Env/3D_Assets/Surfaces/Forest_Mulch_2x2_M_00/Forest_Mulch_2x2_M_00_inst.uasset'
+[2020.10.19-03.17.13:802][212]SourceControl: rm 'Postrero/Content/Pos_Env/3D_Assets/Surfaces/Forest_Mulch_2x2_M_00/tjmnaerdy_4K_AO.uasset'
+[2020.10.19-03.17.13:802][212]SourceControl: rm 'Postrero/Content/Pos_Env/3D_Assets/Surfaces/Forest_Mulch_2x2_M_00/tjmnaerdy_4K_Albedo.uasset'
+[2020.10.19-03.17.13:802][212]SourceControl: rm 'Postrero/Content/Pos_Env/3D_Assets/Surfaces/Forest_Mulch_2x2_M_00/tjmnaerdy_4K_Displacement.uasset'
+[2020.10.19-03.17.13:802][212]SourceControl: rm 'Postrero/Content/Pos_Env/3D_Assets/Surfaces/Forest_Mulch_2x2_M_00/tjmnaerdy_4K_Normal.uasset'
+[2020.10.19-03.17.13:802][212]SourceControl: rm 'Postrero/Content/Pos_Env/3D_Assets/Surfaces/Forest_Mulch_2x2_M_00/tjmnaerdy_4K_Roughness.uasset'
+[2020.10.19-03.17.16:488][373]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Content' is outside repository at 'C:/Users/parkm/Documents/GitHub/Postrero_UE4'
+[2020.10.19-03.17.16:488][373]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/2D/Paper2D/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'C:/Users/parkm/Documents/GitHub/Postrero_UE4'
+[2020.10.19-03.17.16:488][373]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Developer/AnimationSharing/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'C:/Users/parkm/Documents/GitHub/Postrero_UE4'
+[2020.10.19-03.17.16:489][373]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Editor/GeometryMode/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'C:/Users/parkm/Documents/GitHub/Postrero_UE4'
+[2020.10.19-03.17.16:489][373]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Enterprise/DatasmithContent/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'C:/Users/parkm/Documents/GitHub/Postrero_UE4'
+[2020.10.19-03.17.16:489][373]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'C:/Users/parkm/Documents/GitHub/Postrero_UE4'
+[2020.10.19-03.17.16:489][373]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosNiagara/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'C:/Users/parkm/Documents/GitHub/Postrero_UE4'
+[2020.10.19-03.17.16:489][373]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'C:/Users/parkm/Documents/GitHub/Postrero_UE4'
+[2020.10.19-03.17.16:489][373]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'C:/Users/parkm/Documents/GitHub/Postrero_UE4'
+[2020.10.19-03.17.16:489][373]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/GeometryProcessing/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'C:/Users/parkm/Documents/GitHub/Postrero_UE4'
+[2020.10.19-03.17.16:489][373]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'C:/Users/parkm/Documents/GitHub/Postrero_UE4'
+[2020.10.19-03.17.16:489][373]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/FX/Niagara/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/FX/Niagara/Content' is outside repository at 'C:/Users/parkm/Documents/GitHub/Postrero_UE4'
+[2020.10.19-03.17.16:489][373]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Lumin/MagicLeap/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'C:/Users/parkm/Documents/GitHub/Postrero_UE4'
+[2020.10.19-03.17.16:489][373]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'C:/Users/parkm/Documents/GitHub/Postrero_UE4'
+[2020.10.19-03.17.16:489][373]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Marketplace/Substance/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Marketplace/Substance/Content' is outside repository at 'C:/Users/parkm/Documents/GitHub/Postrero_UE4'
+[2020.10.19-03.17.16:489][373]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Media/MediaCompositing/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'C:/Users/parkm/Documents/GitHub/Postrero_UE4'
+[2020.10.19-03.17.16:489][373]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/MegascansPlugin/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/MegascansPlugin/Content' is outside repository at 'C:/Users/parkm/Documents/GitHub/Postrero_UE4'
+[2020.10.19-03.17.16:489][373]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/MovieScene/MovieRenderPipeline/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/MovieScene/MovieRenderPipeline/Content' is outside repository at 'C:/Users/parkm/Documents/GitHub/Postrero_UE4'
+[2020.10.19-03.17.16:489][373]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'C:/Users/parkm/Documents/GitHub/Postrero_UE4'
+[2020.10.19-03.17.16:489][373]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/PostSplashScreen/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'C:/Users/parkm/Documents/GitHub/Postrero_UE4'
+[2020.10.19-03.17.16:489][373]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'C:/Users/parkm/Documents/GitHub/Postrero_UE4'
+[2020.10.19-03.17.16:622][373]EditorErrors: Warning: 체크인 대상 애셋이 없습니다!
+[2020.10.19-03.18.08:396][733]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2020.10.19-03.18.08:428][733]LogSlate: Window 'Postrero - 언리얼 에디터' being destroyed
+[2020.10.19-03.18.08:429][733]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft 입력기).
+[2020.10.19-03.18.08:520][734]Cmd: QUIT_EDITOR
+[2020.10.19-03.18.08:520][734]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2020.10.19-03.18.08:527][734]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2020.10.19-03.18.08:570][734]LogExit: Preparing to exit.
+[2020.10.19-03.18.08:976][734]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.10.19-03.18.09:075][734]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.10.19-03.18.09:075][734]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.10.19-03.18.09:084][734]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2020.10.19-03.18.09:087][734]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.10.19-03.18.09:088][734]LogExit: Editor shut down
+[2020.10.19-03.18.09:088][734]LogExit: Transaction tracking system shut down
+[2020.10.19-03.18.09:174][734]LogAISub: UAISubsystem::~UAISubsystem AISubsystem (0000019BED314480), frame # 28734
+[2020.10.19-03.18.09:174][734]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000019BED25AAC0), frame # 28734
+[2020.10.19-03.18.09:174][734]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000019BED2D0A00), frame # 28734
+[2020.10.19-03.18.09:178][734]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000019B96661200), frame # 28734
+[2020.10.19-03.18.09:180][734]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000019BDDA9ED40), frame # 28734
+[2020.10.19-03.18.09:198][734]LogExit: Object subsystem successfully closed.
+[2020.10.19-03.18.09:218][734]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.10.19-03.18.09:247][734]LogModuleManager: Shutting down and abandoning module StatsViewer (810)
+[2020.10.19-03.18.09:248][734]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (808)
+[2020.10.19-03.18.09:248][734]LogModuleManager: Shutting down and abandoning module SceneOutliner (806)
+[2020.10.19-03.18.09:248][734]LogModuleManager: Shutting down and abandoning module AddContentDialog (804)
+[2020.10.19-03.18.09:248][734]LogModuleManager: Shutting down and abandoning module WidgetCarousel (803)
+[2020.10.19-03.18.09:248][734]LogModuleManager: Shutting down and abandoning module EditorWidgets (800)
+[2020.10.19-03.18.09:248][734]LogModuleManager: Shutting down and abandoning module CollectionManager (798)
+[2020.10.19-03.18.09:248][734]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (796)
+[2020.10.19-03.18.09:248][734]LogModuleManager: Shutting down and abandoning module FoliageEdit (794)
+[2020.10.19-03.18.09:248][734]LogModuleManager: Shutting down and abandoning module LandscapeEditor (792)
+[2020.10.19-03.18.09:248][734]LogModuleManager: Shutting down and abandoning module MeshPaintMode (790)
+[2020.10.19-03.18.09:248][734]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (788)
+[2020.10.19-03.18.09:248][734]LogModuleManager: Shutting down and abandoning module ActorPickerMode (786)
+[2020.10.19-03.18.09:248][734]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (784)
+[2020.10.19-03.18.09:248][734]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (782)
+[2020.10.19-03.18.09:248][734]LogModuleManager: Shutting down and abandoning module AutomationWorker (780)
+[2020.10.19-03.18.09:248][734]LogModuleManager: Shutting down and abandoning module SteamVREditor (778)
+[2020.10.19-03.18.09:248][734]LogModuleManager: Shutting down and abandoning module OculusMR (776)
+[2020.10.19-03.18.09:248][734]LogModuleManager: Shutting down and abandoning module GooglePADEditor (774)
+[2020.10.19-03.18.09:248][734]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (772)
+[2020.10.19-03.18.09:248][734]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (770)
+[2020.10.19-03.18.09:248][734]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (768)
+[2020.10.19-03.18.09:248][734]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (766)
+[2020.10.19-03.18.09:248][734]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (764)
+[2020.10.19-03.18.09:248][734]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (762)
+[2020.10.19-03.18.09:248][734]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (760)
+[2020.10.19-03.18.09:248][734]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (758)
+[2020.10.19-03.18.09:248][734]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (756)
+[2020.10.19-03.18.09:248][734]LogModuleManager: Shutting down and abandoning module WebMMedia (754)
+[2020.10.19-03.18.09:248][734]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (752)
+[2020.10.19-03.18.09:248][734]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (750)
+[2020.10.19-03.18.09:249][734]LogModuleManager: Shutting down and abandoning module SequenceRecorder (749)
+[2020.10.19-03.18.09:249][734]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (746)
+[2020.10.19-03.18.09:249][734]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (744)
+[2020.10.19-03.18.09:249][734]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (742)
+[2020.10.19-03.18.09:249][734]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (740)
+[2020.10.19-03.18.09:249][734]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (738)
+[2020.10.19-03.18.09:249][734]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (736)
+[2020.10.19-03.18.09:249][734]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (734)
+[2020.10.19-03.18.09:249][734]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (732)
+[2020.10.19-03.18.09:249][734]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (730)
+[2020.10.19-03.18.09:249][734]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (728)
+[2020.10.19-03.18.09:249][734]LogModuleManager: Shutting down and abandoning module PlanarCut (726)
+[2020.10.19-03.18.09:249][734]LogModuleManager: Shutting down and abandoning module CharacterAI (724)
+[2020.10.19-03.18.09:249][734]LogModuleManager: Shutting down and abandoning module TextureAlignMode (722)
+[2020.10.19-03.18.09:249][734]LogModuleManager: Shutting down and abandoning module BspMode (720)
+[2020.10.19-03.18.09:249][734]LogModuleManager: Shutting down and abandoning module PlacementMode (719)
+[2020.10.19-03.18.09:249][734]LogModuleManager: Shutting down and abandoning module GeometryMode (716)
+[2020.10.19-03.18.09:249][734]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (714)
+[2020.10.19-03.18.09:249][734]LogModuleManager: Shutting down and abandoning module SmartSnapping (712)
+[2020.10.19-03.18.09:249][734]LogModuleManager: Shutting down and abandoning module SessionServices (710)
+[2020.10.19-03.18.09:249][734]LogModuleManager: Shutting down and abandoning module MeshPaint (708)
+[2020.10.19-03.18.09:249][734]LogModuleManager: Shutting down and abandoning module ViewportSnapping (706)
+[2020.10.19-03.18.09:249][734]LogModuleManager: Shutting down and abandoning module ViewportInteraction (704)
+[2020.10.19-03.18.09:249][734]LogModuleManager: Shutting down and abandoning module ClothPainter (702)
+[2020.10.19-03.18.09:249][734]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (701)
+[2020.10.19-03.18.09:249][734]LogModuleManager: Shutting down and abandoning module LogVisualizer (698)
+[2020.10.19-03.18.09:249][734]LogModuleManager: Shutting down and abandoning module IntroTutorials (696)
+[2020.10.19-03.18.09:249][734]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (695)
+[2020.10.19-03.18.09:249][734]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (692)
+[2020.10.19-03.18.09:249][734]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (690)
+[2020.10.19-03.18.09:249][734]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (688)
+[2020.10.19-03.18.09:249][734]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (687)
+[2020.10.19-03.18.10:424][734]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (684)
+[2020.10.19-03.18.10:424][734]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (682)
+[2020.10.19-03.18.10:424][734]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (680)
+[2020.10.19-03.18.10:424][734]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (678)
+[2020.10.19-03.18.10:424][734]LogModuleManager: Shutting down and abandoning module TraceInsights (676)
+[2020.10.19-03.18.10:424][734]LogModuleManager: Shutting down and abandoning module TraceServices (675)
+[2020.10.19-03.18.10:424][734]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (672)
+[2020.10.19-03.18.10:424][734]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (670)
+[2020.10.19-03.18.10:424][734]LogModuleManager: Shutting down and abandoning module InputBindingEditor (668)
+[2020.10.19-03.18.10:424][734]LogModuleManager: Shutting down and abandoning module MergeActors (666)
+[2020.10.19-03.18.10:424][734]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (664)
+[2020.10.19-03.18.10:424][734]LogModuleManager: Shutting down and abandoning module LocalizationService (663)
+[2020.10.19-03.18.10:424][734]LogModuleManager: Shutting down and abandoning module HardwareTargeting (660)
+[2020.10.19-03.18.10:424][734]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (658)
+[2020.10.19-03.18.10:424][734]LogModuleManager: Shutting down and abandoning module UndoHistory (656)
+[2020.10.19-03.18.10:424][734]LogModuleManager: Shutting down and abandoning module XmlParser (654)
+[2020.10.19-03.18.10:424][734]LogModuleManager: Shutting down and abandoning module Blutility (652)
+[2020.10.19-03.18.10:424][734]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (650)
+[2020.10.19-03.18.10:424][734]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (649)
+[2020.10.19-03.18.10:424][734]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (646)
+[2020.10.19-03.18.10:424][734]LogModuleManager: Shutting down and abandoning module SettingsEditor (644)
+[2020.10.19-03.18.10:424][734]LogModuleManager: Shutting down and abandoning module ProjectLauncher (642)
+[2020.10.19-03.18.10:424][734]LogModuleManager: Shutting down and abandoning module SessionFrontend (640)
+[2020.10.19-03.18.10:424][734]LogModuleManager: Shutting down and abandoning module ProfilerClient (638)
+[2020.10.19-03.18.10:424][734]LogModuleManager: Shutting down and abandoning module DeviceManager (636)
+[2020.10.19-03.18.10:424][734]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (635)
+[2020.10.19-03.18.10:457][734]LogModuleManager: Shutting down and abandoning module AutomationController (632)
+[2020.10.19-03.18.10:457][734]LogModuleManager: Shutting down and abandoning module AutomationWindow (630)
+[2020.10.19-03.18.10:457][734]LogModuleManager: Shutting down and abandoning module Layers (628)
+[2020.10.19-03.18.10:457][734]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (626)
+[2020.10.19-03.18.10:457][734]LogModuleManager: Shutting down and abandoning module DetailCustomizations (624)
+[2020.10.19-03.18.10:457][734]LogModuleManager: Shutting down and abandoning module PackagesDialog (622)
+[2020.10.19-03.18.10:457][734]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (620)
+[2020.10.19-03.18.10:457][734]LogModuleManager: Shutting down and abandoning module Persona (618)
+[2020.10.19-03.18.10:457][734]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (617)
+[2020.10.19-03.18.10:457][734]LogModuleManager: Shutting down and abandoning module AnimGraph (615)
+[2020.10.19-03.18.10:457][734]LogModuleManager: Shutting down and abandoning module Kismet (612)
+[2020.10.19-03.18.10:457][734]LogModuleManager: Shutting down and abandoning module KismetWidgets (611)
+[2020.10.19-03.18.10:457][734]LogModuleManager: Shutting down and abandoning module GraphEditor (608)
+[2020.10.19-03.18.10:457][734]LogModuleManager: Shutting down and abandoning module StructViewer (606)
+[2020.10.19-03.18.10:457][734]LogModuleManager: Shutting down and abandoning module ClassViewer (604)
+[2020.10.19-03.18.10:457][734]LogModuleManager: Shutting down and abandoning module Toolbox (602)
+[2020.10.19-03.18.10:457][734]LogModuleManager: Shutting down and abandoning module ModuleUI (600)
+[2020.10.19-03.18.10:457][734]LogModuleManager: Shutting down and abandoning module OutputLog (598)
+[2020.10.19-03.18.10:457][734]LogModuleManager: Shutting down and abandoning module GammaUI (596)
+[2020.10.19-03.18.10:457][734]LogModuleManager: Shutting down and abandoning module Documentation (594)
+[2020.10.19-03.18.10:457][734]LogModuleManager: Shutting down and abandoning module LiveCoding (592)
+[2020.10.19-03.18.10:458][734]LogModuleManager: Shutting down and abandoning module LevelSequence (590)
+[2020.10.19-03.18.10:458][734]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (588)
+[2020.10.19-03.18.10:458][734]LogModuleManager: Shutting down and abandoning module MovieScene (586)
+[2020.10.19-03.18.10:458][734]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (584)
+[2020.10.19-03.18.10:458][734]LogModuleManager: Shutting down and abandoning module LauncherPlatform (582)
+[2020.10.19-03.18.10:458][734]LogModuleManager: Shutting down and abandoning module AnalyticsET (580)
+[2020.10.19-03.18.10:458][734]LogModuleManager: Shutting down and abandoning module PortalServices (578)
+[2020.10.19-03.18.10:458][734]LogModuleManager: Shutting down and abandoning module PortalRpc (576)
+[2020.10.19-03.18.10:458][734]LogModuleManager: Shutting down and abandoning module MessagingRpc (574)
+[2020.10.19-03.18.10:458][734]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (572)
+[2020.10.19-03.18.10:458][734]LogModuleManager: Shutting down and abandoning module AudioMixerCore (571)
+[2020.10.19-03.18.10:458][734]LogModuleManager: Shutting down and abandoning module AIModule (568)
+[2020.10.19-03.18.10:458][734]LogModuleManager: Shutting down and abandoning module GameplayDebugger (567)
+[2020.10.19-03.18.10:458][734]LogModuleManager: Shutting down and abandoning module AITestSuite (565)
+[2020.10.19-03.18.10:458][734]LogModuleManager: Shutting down and abandoning module NavigationSystem (563)
+[2020.10.19-03.18.10:458][734]LogModuleManager: Shutting down and abandoning module ProfilerService (560)
+[2020.10.19-03.18.10:644][734]LogModuleManager: Shutting down and abandoning module TaskGraph (558)
+[2020.10.19-03.18.10:644][734]LogModuleManager: Shutting down and abandoning module MegascansPlugin (556)
+[2020.10.19-03.18.10:644][734]LogModuleManager: Shutting down and abandoning module SubstanceLiveLink (554)
+[2020.10.19-03.18.10:644][734]LogModuleManager: Shutting down and abandoning module SubstanceSource (552)
+[2020.10.19-03.18.10:644][734]LogModuleManager: Shutting down and abandoning module SubstanceEditor (550)
+[2020.10.19-03.18.10:644][734]LogModuleManager: Shutting down and abandoning module ScreenshotTools (548)
+[2020.10.19-03.18.10:644][734]LogModuleManager: Shutting down and abandoning module SynthesisEditor (546)
+[2020.10.19-03.18.10:644][734]LogModuleManager: Shutting down and abandoning module Synthesis (544)
+[2020.10.19-03.18.10:645][734]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (542)
+[2020.10.19-03.18.10:645][734]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (540)
+[2020.10.19-03.18.10:645][734]LogModuleManager: Shutting down and abandoning module OculusEditor (538)
+[2020.10.19-03.18.10:645][734]LogModuleManager: Shutting down and abandoning module OculusInput (536)
+[2020.10.19-03.18.10:645][734]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (534)
+[2020.10.19-03.18.10:645][734]LogModuleManager: Shutting down and abandoning module GooglePAD (532)
+[2020.10.19-03.18.10:645][734]LogModuleManager: Shutting down and abandoning module EditableMesh (530)
+[2020.10.19-03.18.10:645][734]LogModuleManager: Shutting down and abandoning module SQLiteSupport (528)
+[2020.10.19-03.18.10:645][734]LogModuleManager: Shutting down and abandoning module DatabaseSupport (526)
+[2020.10.19-03.18.10:645][734]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (524)
+[2020.10.19-03.18.10:645][734]LogModuleManager: Shutting down and abandoning module CableComponent (522)
+[2020.10.19-03.18.10:645][734]LogModuleManager: Shutting down and abandoning module AudioCapture (520)
+[2020.10.19-03.18.10:645][734]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (519)
+[2020.10.19-03.18.10:645][734]LogModuleManager: Shutting down and abandoning module AssetTags (516)
+[2020.10.19-03.18.10:645][734]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (514)
+[2020.10.19-03.18.10:645][734]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (512)
+[2020.10.19-03.18.10:645][734]LogModuleManager: Shutting down and abandoning module AppleImageUtils (510)
+[2020.10.19-03.18.10:645][734]LogModuleManager: Shutting down and abandoning module AndroidPermission (508)
+[2020.10.19-03.18.10:645][734]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (506)
+[2020.10.19-03.18.10:645][734]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (504)
+[2020.10.19-03.18.10:645][734]LogModuleManager: Shutting down and abandoning module TemplateSequence (502)
+[2020.10.19-03.18.10:645][734]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineEditor (500)
+[2020.10.19-03.18.10:645][734]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineRenderPasses (498)
+[2020.10.19-03.18.10:645][734]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineSettings (496)
+[2020.10.19-03.18.10:645][734]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineCore (494)
+[2020.10.19-03.18.10:645][734]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (493)
+[2020.10.19-03.18.10:647][734]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (490)
+[2020.10.19-03.18.10:647][734]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (488)
+[2020.10.19-03.18.10:647][734]LogModuleManager: Shutting down and abandoning module MediaCompositing (486)
+[2020.10.19-03.18.10:647][734]LogModuleManager: Shutting down and abandoning module ImgMedia (484)
+[2020.10.19-03.18.10:647][734]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (482)
+[2020.10.19-03.18.10:647][734]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (480)
+[2020.10.19-03.18.10:647][734]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (478)
+[2020.10.19-03.18.10:647][734]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (476)
+[2020.10.19-03.18.10:647][734]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (474)
+[2020.10.19-03.18.10:647][734]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (472)
+[2020.10.19-03.18.10:648][734]LogModuleManager: Shutting down and abandoning module MeshSolverUtilities (470)
+[2020.10.19-03.18.10:648][734]LogModuleManager: Shutting down and abandoning module MeshConversion (468)
+[2020.10.19-03.18.10:648][734]LogModuleManager: Shutting down and abandoning module DynamicMesh (466)
+[2020.10.19-03.18.10:648][734]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (464)
+[2020.10.19-03.18.10:648][734]LogModuleManager: Shutting down and abandoning module GeometricObjects (462)
+[2020.10.19-03.18.10:648][734]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (460)
+[2020.10.19-03.18.10:648][734]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (459)
+[2020.10.19-03.18.10:648][734]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (456)
+[2020.10.19-03.18.10:648][734]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (454)
+[2020.10.19-03.18.10:648][734]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (452)
+[2020.10.19-03.18.10:648][734]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (450)
+[2020.10.19-03.18.10:648][734]LogModuleManager: Shutting down and abandoning module ChaosNiagara (448)
+[2020.10.19-03.18.10:648][734]LogModuleManager: Shutting down and abandoning module FractureEditor (446)
+[2020.10.19-03.18.10:648][734]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (444)
+[2020.10.19-03.18.10:648][734]LogModuleManager: Shutting down and abandoning module ChaosCloth (442)
+[2020.10.19-03.18.10:648][734]LogModuleManager: Shutting down and abandoning module BackChannel (440)
+[2020.10.19-03.18.10:648][734]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (438)
+[2020.10.19-03.18.10:648][734]LogModuleManager: Shutting down and abandoning module AutomationUtils (436)
+[2020.10.19-03.18.10:648][734]LogModuleManager: Shutting down and abandoning module AlembicImporter (434)
+[2020.10.19-03.18.10:648][734]LogModuleManager: Shutting down and abandoning module AlembicLibrary (433)
+[2020.10.19-03.18.10:648][734]LogModuleManager: Shutting down and abandoning module GeometryCache (432)
+[2020.10.19-03.18.10:648][734]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (431)
+[2020.10.19-03.18.10:648][734]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (426)
+[2020.10.19-03.18.10:648][734]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (424)
+[2020.10.19-03.18.10:648][734]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (422)
+[2020.10.19-03.18.10:648][734]LogModuleManager: Shutting down and abandoning module PluginBrowser (420)
+[2020.10.19-03.18.10:648][734]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (418)
+[2020.10.19-03.18.10:648][734]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (416)
+[2020.10.19-03.18.10:648][734]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (414)
+[2020.10.19-03.18.10:648][734]LogModuleManager: Shutting down and abandoning module CurveEditorTools (412)
+[2020.10.19-03.18.10:648][734]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (410)
+[2020.10.19-03.18.10:648][734]LogModuleManager: Shutting down and abandoning module CryptoKeys (408)
+[2020.10.19-03.18.10:648][734]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (406)
+[2020.10.19-03.18.10:648][734]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (404)
+[2020.10.19-03.18.10:648][734]LogModuleManager: Shutting down and abandoning module UObjectPlugin (402)
+[2020.10.19-03.18.10:648][734]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (400)
+[2020.10.19-03.18.10:648][734]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (398)
+[2020.10.19-03.18.10:648][734]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (396)
+[2020.10.19-03.18.10:648][734]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (394)
+[2020.10.19-03.18.10:648][734]LogModuleManager: Shutting down and abandoning module GitSourceControl (392)
+[2020.10.19-03.18.10:648][734]LogModuleManager: Shutting down and abandoning module SourceControl (391)
+[2020.10.19-03.18.10:648][734]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (388)
+[2020.10.19-03.18.10:648][734]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (386)
+[2020.10.19-03.18.10:648][734]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (384)
+[2020.10.19-03.18.10:648][734]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (382)
+[2020.10.19-03.18.10:648][734]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (380)
+[2020.10.19-03.18.10:648][734]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (378)
+[2020.10.19-03.18.10:648][734]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (376)
+[2020.10.19-03.18.10:648][734]LogModuleManager: Shutting down and abandoning module Paper2DEditor (374)
+[2020.10.19-03.18.10:648][734]LogModuleManager: Shutting down and abandoning module SoundFields (372)
+[2020.10.19-03.18.10:648][734]LogModuleManager: Shutting down and abandoning module SignificanceManager (370)
+[2020.10.19-03.18.10:648][734]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (368)
+[2020.10.19-03.18.10:648][734]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (366)
+[2020.10.19-03.18.10:648][734]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (362)
+[2020.10.19-03.18.10:648][734]LogModuleManager: Shutting down and abandoning module SQLiteCore (360)
+[2020.10.19-03.18.10:648][734]LogModuleManager: Shutting down and abandoning module ActorSequence (358)
+[2020.10.19-03.18.10:648][734]LogModuleManager: Shutting down and abandoning module UdpMessaging (356)
+[2020.10.19-03.18.10:749][734]LogModuleManager: Shutting down and abandoning module TcpMessaging (354)
+[2020.10.19-03.18.10:849][734]LogModuleManager: Shutting down and abandoning module SubstanceCore (352)
+[2020.10.19-03.18.10:849][734]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (350)
+[2020.10.19-03.18.10:849][734]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (348)
+[2020.10.19-03.18.10:849][734]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (346)
+[2020.10.19-03.18.10:849][734]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (344)
+[2020.10.19-03.18.10:849][734]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (342)
+[2020.10.19-03.18.10:849][734]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2020.10.19-03.18.10:849][734]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (340)
+[2020.10.19-03.18.10:849][734]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (338)
+[2020.10.19-03.18.10:849][734]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (336)
+[2020.10.19-03.18.10:849][734]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (334)
+[2020.10.19-03.18.10:849][734]LogModuleManager: Shutting down and abandoning module MagicLeapController (332)
+[2020.10.19-03.18.10:849][734]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.10.19-03.18.10:849][734]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (330)
+[2020.10.19-03.18.10:849][734]LogModuleManager: Shutting down and abandoning module MagicLeapAR (328)
+[2020.10.19-03.18.10:849][734]LogModuleManager: Shutting down and abandoning module AugmentedReality (327)
+[2020.10.19-03.18.10:849][734]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (324)
+[2020.10.19-03.18.10:849][734]LogModuleManager: Shutting down and abandoning module Niagara (322)
+[2020.10.19-03.18.10:849][734]LogModuleManager: Shutting down and abandoning module SignalProcessing (321)
+[2020.10.19-03.18.10:849][734]LogModuleManager: Shutting down and abandoning module NiagaraEditor (319)
+[2020.10.19-03.18.10:849][734]LogModuleManager: Shutting down and abandoning module NiagaraCore (316)
+[2020.10.19-03.18.10:849][734]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (314)
+[2020.10.19-03.18.10:849][734]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (312)
+[2020.10.19-03.18.10:849][734]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (310)
+[2020.10.19-03.18.10:849][734]LogModuleManager: Shutting down and abandoning module FacialAnimation (308)
+[2020.10.19-03.18.10:849][734]LogModuleManager: Shutting down and abandoning module DataValidation (306)
+[2020.10.19-03.18.10:849][734]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (304)
+[2020.10.19-03.18.10:849][734]LogModuleManager: Shutting down and abandoning module LevelEditor (303)
+[2020.10.19-03.18.10:850][734]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (302)
+[2020.10.19-03.18.10:850][734]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (300)
+[2020.10.19-03.18.10:850][734]LogModuleManager: Shutting down and abandoning module MainFrame (298)
+[2020.10.19-03.18.10:850][734]LogModuleManager: Shutting down and abandoning module HotReload (297)
+[2020.10.19-03.18.10:850][734]LogModuleManager: Shutting down and abandoning module ToolMenus (293)
+[2020.10.19-03.18.10:850][734]LogModuleManager: Shutting down and abandoning module ContentBrowser (291)
+[2020.10.19-03.18.10:851][734]LogModuleManager: Shutting down and abandoning module TreeMap (289)
+[2020.10.19-03.18.10:851][734]LogModuleManager: Shutting down and abandoning module AnimationSharing (286)
+[2020.10.19-03.18.10:851][734]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (284)
+[2020.10.19-03.18.10:851][734]LogModuleManager: Shutting down and abandoning module Paper2D (282)
+[2020.10.19-03.18.10:851][734]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (280)
+[2020.10.19-03.18.10:851][734]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (278)
+[2020.10.19-03.18.10:851][734]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (276)
+[2020.10.19-03.18.10:851][734]LogModuleManager: Shutting down and abandoning module PacketHandler (274)
+[2020.10.19-03.18.10:851][734]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (272)
+[2020.10.19-03.18.10:851][734]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (270)
+[2020.10.19-03.18.10:851][734]LogModuleManager: Shutting down and abandoning module MediaAssets (268)
+[2020.10.19-03.18.10:851][734]LogModuleManager: Shutting down and abandoning module Overlay (266)
+[2020.10.19-03.18.10:851][734]LogModuleManager: Shutting down and abandoning module OverlayEditor (265)
+[2020.10.19-03.18.10:851][734]LogModuleManager: Shutting down and abandoning module VREditor (262)
+[2020.10.19-03.18.10:851][734]LogModuleManager: Shutting down and abandoning module StringTableEditor (260)
+[2020.10.19-03.18.10:852][734]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (258)
+[2020.10.19-03.18.10:852][734]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (256)
+[2020.10.19-03.18.10:852][734]LogModuleManager: Shutting down and abandoning module FunctionalTesting (254)
+[2020.10.19-03.18.10:852][734]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (252)
+[2020.10.19-03.18.10:852][734]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (251)
+[2020.10.19-03.18.10:852][734]LogModuleManager: Shutting down and abandoning module UMG (248)
+[2020.10.19-03.18.10:852][734]LogModuleManager: Shutting down and abandoning module UMGEditor (247)
+[2020.10.19-03.18.10:852][734]LogModuleManager: Shutting down and abandoning module MessageLog (245)
+[2020.10.19-03.18.10:852][734]LogModuleManager: Shutting down and abandoning module MaterialEditor (243)
+[2020.10.19-03.18.10:852][734]LogModuleManager: Shutting down and abandoning module SlateReflector (238)
+[2020.10.19-03.18.10:852][734]LogModuleManager: Shutting down and abandoning module Slate (236)
+[2020.10.19-03.18.10:852][734]LogModuleManager: Shutting down and abandoning module SlateCore (234)
+[2020.10.19-03.18.10:852][734]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (232)
+[2020.10.19-03.18.10:852][734]LogModuleManager: Shutting down and abandoning module UnrealEd (230)
+[2020.10.19-03.18.10:852][734]LogModuleManager: Shutting down and abandoning module MRMesh (228)
+[2020.10.19-03.18.10:852][734]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (226)
+[2020.10.19-03.18.10:852][734]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (224)
+[2020.10.19-03.18.10:852][734]LogModuleManager: Shutting down and abandoning module XAudio2 (222)
+[2020.10.19-03.18.10:852][734]LogModuleManager: Shutting down and abandoning module Networking (220)
+[2020.10.19-03.18.10:852][734]LogModuleManager: Shutting down and abandoning module Core (218)
+[2020.10.19-03.18.10:852][734]LogModuleManager: Shutting down and abandoning module MovieSceneTools (216)
+[2020.10.19-03.18.10:852][734]LogModuleManager: Shutting down and abandoning module CurveEditor (215)
+[2020.10.19-03.18.10:852][734]LogModuleManager: Shutting down and abandoning module Sequencer (213)
+[2020.10.19-03.18.10:852][734]LogModuleManager: Shutting down and abandoning module EditorStyle (212)
+[2020.10.19-03.18.10:853][734]LogModuleManager: Shutting down and abandoning module KismetCompiler (208)
+[2020.10.19-03.18.10:853][734]LogModuleManager: Shutting down and abandoning module MeshBuilder (206)
+[2020.10.19-03.18.10:853][734]LogModuleManager: Shutting down and abandoning module MeshUtilities (204)
+[2020.10.19-03.18.10:853][734]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (203)
+[2020.10.19-03.18.10:853][734]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (202)
+[2020.10.19-03.18.10:853][734]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (201)
+[2020.10.19-03.18.10:853][734]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (199)
+[2020.10.19-03.18.10:853][734]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (197)
+[2020.10.19-03.18.10:853][734]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (195)
+[2020.10.19-03.18.10:853][734]LogModuleManager: Shutting down and abandoning module MaterialBaking (191)
+[2020.10.19-03.18.10:853][734]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (186)
+[2020.10.19-03.18.10:853][734]LogModuleManager: Shutting down and abandoning module DerivedDataCache (184)
+[2020.10.19-03.18.10:853][734]LogModuleManager: Shutting down and abandoning module XGEController (182)
+[2020.10.19-03.18.10:853][734]LogModuleManager: Shutting down and abandoning module TargetPlatform (180)
+[2020.10.19-03.18.10:853][734]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (179)
+[2020.10.19-03.18.10:853][734]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (177)
+[2020.10.19-03.18.10:853][734]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (175)
+[2020.10.19-03.18.10:853][734]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (173)
+[2020.10.19-03.18.10:853][734]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (171)
+[2020.10.19-03.18.10:853][734]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (169)
+[2020.10.19-03.18.10:853][734]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (167)
+[2020.10.19-03.18.10:853][734]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (165)
+[2020.10.19-03.18.10:853][734]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (163)
+[2020.10.19-03.18.10:853][734]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (161)
+[2020.10.19-03.18.10:853][734]LogModuleManager: Shutting down and abandoning module ImageWrapper (160)
+[2020.10.19-03.18.10:853][734]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (157)
+[2020.10.19-03.18.10:853][734]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (155)
+[2020.10.19-03.18.10:853][734]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (153)
+[2020.10.19-03.18.10:853][734]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (151)
+[2020.10.19-03.18.10:853][734]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (149)
+[2020.10.19-03.18.10:853][734]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (147)
+[2020.10.19-03.18.10:853][734]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (145)
+[2020.10.19-03.18.10:853][734]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (143)
+[2020.10.19-03.18.10:853][734]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (141)
+[2020.10.19-03.18.10:854][734]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (139)
+[2020.10.19-03.18.10:854][734]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (137)
+[2020.10.19-03.18.10:854][734]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (135)
+[2020.10.19-03.18.10:854][734]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (133)
+[2020.10.19-03.18.10:854][734]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (131)
+[2020.10.19-03.18.10:854][734]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (129)
+[2020.10.19-03.18.10:854][734]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (127)
+[2020.10.19-03.18.10:855][734]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (125)
+[2020.10.19-03.18.10:855][734]LogModuleManager: Shutting down and abandoning module Messaging (123)
+[2020.10.19-03.18.10:855][734]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (121)
+[2020.10.19-03.18.10:855][734]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (119)
+[2020.10.19-03.18.10:858][734]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (117)
+[2020.10.19-03.18.10:858][734]LogModuleManager: Shutting down and abandoning module InputCore (114)
+[2020.10.19-03.18.10:858][734]LogModuleManager: Shutting down and abandoning module Settings (112)
+[2020.10.19-03.18.10:858][734]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (110)
+[2020.10.19-03.18.10:858][734]LogModuleManager: Shutting down and abandoning module PhysXCooking (108)
+[2020.10.19-03.18.10:858][734]LogModuleManager: Shutting down and abandoning module ChaosSolvers (106)
+[2020.10.19-03.18.10:858][734]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (105)
+[2020.10.19-03.18.10:858][734]LogModuleManager: Shutting down and abandoning module Chaos (102)
+[2020.10.19-03.18.10:858][734]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (100)
+[2020.10.19-03.18.10:858][734]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (99)
+[2020.10.19-03.18.10:858][734]LogModuleManager: Shutting down and abandoning module AVEncoder (98)
+[2020.10.19-03.18.10:858][734]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (94)
+[2020.10.19-03.18.10:858][734]LogModuleManager: Shutting down and abandoning module SteamVRInput (92)
+[2020.10.19-03.18.10:858][734]LogModuleManager: Shutting down and abandoning module SteamVR (90)
+[2020.10.19-03.18.10:858][734]LogHMD: Freeing OpenVRDLLHandle.
+[2020.10.19-03.18.10:858][734]LogModuleManager: Shutting down and abandoning module OculusHMD (88)
+[2020.10.19-03.18.10:858][734]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (86)
+[2020.10.19-03.18.10:858][734]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (84)
+[2020.10.19-03.18.10:858][734]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (82)
+[2020.10.19-03.18.10:858][734]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (78)
+[2020.10.19-03.18.10:859][734]LogModuleManager: Shutting down and abandoning module XMPP (73)
+[2020.10.19-03.18.10:859][734]LogModuleManager: Shutting down and abandoning module WebSockets (72)
+[2020.10.19-03.18.10:881][734]LogModuleManager: Shutting down and abandoning module HTTP (69)
+[2020.10.19-03.18.10:881][734]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.10.19-03.18.10:881][734]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B926FAE63-4C0F-1F00-3F28-F598167387BC%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.3-13942748%2B%2B%2BUE4%2BRelease-4.25&UserID=52e31e7245bcc861f6bc93a4de728321%7C8465ba66dba443139abde214c3ec4b17%7Cff7fe75b-0b19-4f92-af70-ead20532a0aa&AppEnvironment=datacollector-source&UploadType=eteventstream] refs=[1] status=Processing
+[2020.10.19-03.18.10:898][734]LogModuleManager: Shutting down and abandoning module SSL (68)
+[2020.10.19-03.18.10:898][734]LogModuleManager: Shutting down and abandoning module WmfMedia (64)
+[2020.10.19-03.18.10:900][734]LogModuleManager: Shutting down and abandoning module Media (63)
+[2020.10.19-03.18.10:900][734]LogModuleManager: Shutting down and abandoning module MagicLeap (60)
+[2020.10.19-03.18.10:900][734]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (58)
+[2020.10.19-03.18.10:900][734]LogModuleManager: Shutting down and abandoning module NiagaraShader (56)
+[2020.10.19-03.18.10:900][734]LogModuleManager: Shutting down and abandoning module VariantManagerContent (54)
+[2020.10.19-03.18.10:900][734]LogModuleManager: Shutting down and abandoning module DatasmithContent (52)
+[2020.10.19-03.18.10:901][734]LogModuleManager: Shutting down and abandoning module AISupportModule (50)
+[2020.10.19-03.18.10:901][734]LogModuleManager: Shutting down and abandoning module DesktopPlatform (48)
+[2020.10.19-03.18.10:901][734]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (46)
+[2020.10.19-03.18.10:901][734]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2020.10.19-03.18.10:901][734]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2020.10.19-03.18.10:901][734]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2020.10.19-03.18.10:901][734]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.10.19-03.18.10:901][734]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.10.19-03.18.10:901][734]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.10.19-03.18.10:901][734]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.10.19-03.18.10:901][734]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.10.19-03.18.10:901][734]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.10.19-03.18.10:901][734]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.10.19-03.18.10:902][734]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.10.19-03.18.10:902][734]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.10.19-03.18.10:902][734]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.10.19-03.18.10:902][734]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.10.19-03.18.10:902][734]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.10.19-03.18.10:902][734]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.10.19-03.18.10:902][734]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.10.19-03.18.10:902][734]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.10.19-03.18.10:902][734]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.10.19-03.18.10:902][734]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.10.19-03.18.10:902][734]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.10.19-03.18.10:902][734]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.10.19-03.18.10:902][734]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2020.10.19-03.18.10:905][734]LogD3D11RHI: Shutdown
+[2020.10.19-03.18.10:905][734]LogD3D11RHI: CleanupD3DDevice
+[2020.10.19-03.18.10:918][734]LogExit: Exiting.
+[2020.10.19-03.18.10:931][734]Log file closed, 10/19/20 12:18:10
